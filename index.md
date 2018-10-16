@@ -22,12 +22,12 @@ I am involved in teaching or coordinating the following courses:
 
 ## Contact information
  
-Roy de Kleijn
-Leiden University
-Office 2.B15
-Wassenaarseweg 52
-2333 AK Leiden
-The Netherlands
+Roy de Kleijn  
+Leiden University  
+Office 2.B15  
+Wassenaarseweg 52  
+2333 AK Leiden  
+The Netherlands  
 
-Telephone: +31 (0)71-5273915
+Telephone: +31 (0)71-5273915  
 E-mail: kleijnrde[at]fsw.leidenuniv.nl or rdekleijn[at]gatech.edu

@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of Mr Jones"
+title                    : "Website of Roy de Kleijn"
 title_separator          : "-"
-name                     : "Mr Jones"
-description              : "Assistant professor."
+name                     : "Roy de Kleijn"
+description              : "Website of Roy de Kleijn"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,15 +101,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mr Jones"
+  name             : "Roy de Kleijn"
   avatar           : "/assets/jpg/pasfoto.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Assistant professor @ Leiden University"
+  location         : "Leiden, Netherlands"
+  email            : "kleijnrde@fsw.leidenuniv.nl"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:your.name@email.com
+      url: mailto:kleijnrde@fsw.leidenuniv.nl
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

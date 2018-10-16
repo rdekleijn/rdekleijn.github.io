@@ -107,9 +107,9 @@ author:
   location         : "Leiden, Netherlands"
   email            : "kleijnrde@fsw.leidenuniv.nl"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:kleijnrde@fsw.leidenuniv.nl
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: mailto:kleijnrde@fsw.leidenuniv.nl
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

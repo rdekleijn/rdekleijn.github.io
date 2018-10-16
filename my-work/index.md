@@ -17,7 +17,7 @@ classes: wide
 - Kachergis, G., Wyatte, D., O’Reilly, R. C., **de Kleijn, R.**, & Hommel, B. (2014). A continuous-time neural model for sequential action. *Philosophical Transactions of the Royal Society B: Biological Sciences, 369:* 20130623. [doi: [10.1098/rstb.2013.0623](http://dx.doi.org/10.1098/rstb.2013.0623)] [[PDF](../assets/pdf/2014_Kachergis_Wyatte_OReilly_DeKleijn_Hommel_PTRSB.pdf)]
 - **de Kleijn, R.**, Kachergis, G., & Hommel, B. (2014). Everyday robotic action: Lessons from human action control. *Frontiers in Neurorobotics,* 8:13. [doi: [10.3389/fnbot.2014.00013](http://dx.doi.org/10.3389/fnbot.2014.00013)] [[PDF](../assets/pdf/2014_DeKleijn_Kachergis_Hommel_Neurorobot.pdf)]
 - Nieuwenhuis, S., & **de Kleijn, R.** (2013). The impact of alertness on cognitive control. *Journal of Experimental Psychology: Human Perception and Performance, 39,* 1797–1801. [doi: [10.1037/a0033980](http://dx.doi.org/10.1037/a0033980)]
-- Nieuwenhuis, S., & **de Kleijn, R.** (2011). Consciousness of targets during the attentional blink: A gradual or all-or-none dimension? *Attention, Perception, & Psychophysics, 73,* 364–373. [doi: [10.3758/s13414-010-0026-1](http://dx.doi.org/10.3758/s13414-010-0026-1)]
+- Nieuwenhuis, S., & **de Kleijn, R.** (2011). Consciousness of targets during the attentional blink: A gradual or all-or-none dimension? *Attention, Perception, & Psychophysics, 73,* 364–373. [doi: [10.3758/s13414-010-0026-1](http://dx.doi.org/10.3758/s13414-010-0026-1)] [[PDF](../assets/pdf/2011_Nieuwenhuis_DeKleijn_AP&P.pdf)]
 
 ## Conference proceedings, talks, and posters
 

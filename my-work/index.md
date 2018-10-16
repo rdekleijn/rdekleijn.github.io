@@ -1,7 +1,8 @@
 ---
-title: My work
+title: Published (and not-quite-published) work
 layout: single
 author_profile: true
+classes: wide
 ---
 
 ## International, peer-reviewed publications

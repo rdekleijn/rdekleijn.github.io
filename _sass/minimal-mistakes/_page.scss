@@ -92,7 +92,6 @@
   }
 
   a:not(.btn) {
-    text-decoration: none;
     &:hover {
       text-decoration: none;
 
@@ -149,6 +148,7 @@
 
     a {
       color: #fff;
+      text-decoration: none;
     }
 
     .wrapper {
@@ -258,6 +258,7 @@
 
   a {
     color: inherit;
+    text-decoration: none;
   }
 }
 

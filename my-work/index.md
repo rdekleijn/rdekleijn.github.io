@@ -23,7 +23,7 @@ classes: wide
 
 - **de Kleijn, R.**, Kachergis, G., & Hommel, B. Optimized behavior in a robot model of sequential action. *40th Annual Meeting of the Cognitive Science Society,* Madison, WI. *July 28, 2018.*
 - **de Kleijn, R.**, Kachergis, G., & Hommel, B. IQ and working memory predict plan-based sequential action learning. *40th Annual Meeting of the Cognitive Science Society,* Madison, WI. *July 28, 2018.*
-- **de Kleijn, R.**, Kachergis, G., & Hommel, B. Optimized sequential motor control in a virtual robot arm. *NVP Winter Conference,* Egmond aan Zee, Netherlands.*December 14, 2017. (poster)*
+- **de Kleijn, R.**, Kachergis, G., & Hommel, B. Optimized sequential motor control in a virtual robot arm. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 14, 2017. (poster)*
 - Mekern, V., **de Kleijn, R.**, & Hommel, B. Level of striatal dopamine does not predict visual and cognitive search behavior. *International Conference for Cognitive Neuroscience,* Amsterdam, Netherlands. *August 8, 2017. (poster)*
 - van Dooren, R., **de Kleijn, R.**, Mekern, V., Sellaro, R., & Hommel, B. No evidence for cross-domain priming from visual to cognitive search. *International Conference for Cognitive Neuroscience,* Amsterdam, Netherlands. *August 6, 2017. (poster)*
 - Heijnen, S., **de Kleijn, R.**, & Hommel, B. The effect of human–robot synchronization on the tendency to anthropomorphize. *International Conference for Cognitive Neuroscience,* Amsterdam, Netherlands. *August 5, 2017. (poster)*

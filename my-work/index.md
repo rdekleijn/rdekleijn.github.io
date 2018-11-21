@@ -9,7 +9,7 @@ classes: wide
 
 - **de Kleijn, R.** (submitted). Neural network architectures for robot controllers in a dynamic foraging task.
 - Heijnen, S., **de Kleijn, R.**, & Hommel, B. (submitted). The impact of human-robot synchronization on anthropomorphization.
-- **de Kleijn, R.**, Wijnen, M., & Poletiek, F. (in press). The effect of context-dependent information and sentence constructions on perceived humanness of an agent in a Turing test. *Knowledge-Based Systems, 163,* 794–799. [doi: [10.1016/j.knosys.2018.10.006](https://doi.org/10.1016/j.knosys.2018.10.006)]
+- **de Kleijn, R.**, Wijnen, M., & Poletiek, F. (2019). The effect of context-dependent information and sentence constructions on perceived humanness of an agent in a Turing test. *Knowledge-Based Systems, 163,* 794–799. [doi: [10.1016/j.knosys.2018.10.006](https://doi.org/10.1016/j.knosys.2018.10.006)]
 - **de Kleijn, R.**, van Es, L., Kachergis, G., & Hommel, B. (2019). Anthropomorphization of artificial agents leads to fair and strategic, but not altruistic behavior. *International Journal of Human–Computer Studies, 122,* 168–173. [doi: [10.1016/j.ijhcs.2018.09.008](https://doi.org/10.1016/j.ijhcs.2018.09.008)]
 - **de Kleijn, R.**, Kachergis, G., & Hommel, B. (2018). Predictive movements and human reinforcement learning of sequential action. *Cognitive Science, 42,* 783–808. [doi: [10.1111/cogs.12599](http://dx.doi.org/10.1111/cogs.12599)] [[PDF](../assets/pdf/2018_DeKleijn_Kachergis_Hommel_CogSci.pdf)]
 - Mahdizadeh Hakak, A., Bhattacharya, J., Biloria, N., **de Kleijn, R.**, & Shah-Mohammadi, F. (2016). Navigating abstract virtual environments: An EEG study. *Cognitive Neurodynamics, 10,* 471–480. [doi: [10.1007/s11571-016-9395-z](http://dx.doi.org/10.1007/s11571-016-9395-z)]

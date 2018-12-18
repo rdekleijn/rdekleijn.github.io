@@ -85,7 +85,7 @@ classes: wide
 - **de Kleijn, R.** Robots in de zorg [Robots in healthcare]. *U-meet 2014,* The Hague, Netherlands. *October 2, 2014. (invited talk and workshop)*
 - **de Kleijn, R.** BNR Digitaal: Windows 10, UberPOP en wennen aan robots. *BNR Nieuwsradio, October 1, 2014. (radio interview)*
 - **de Kleijn, R.** Statistical motor learning in robots. *Young Statisticians GMM,* Utrecht, Netherlands. *May 19, 2014. (invited talk)*
-- **de Kleijn, R.**, Kachergis, G., & Hommel, B. Deconstructing complex action: Statistical learning of hierarchical action. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 20, 2013. *
+- **de Kleijn, R.**, Kachergis, G., & Hommel, B. Deconstructing complex action: Statistical learning of hierarchical action. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 20, 2013.*
 - Hommel, B., & **de Kleijn, R.** Verliefd op een robot [In love with a robot]. *Nacht van Kunst en Kennis [Night of Art and Science],* Leiden, Netherlands. *September 20, 2013. (invited talk)*
 - **de Kleijn, R.**, Kachergis, G., & Hommel, B. Action representation in humans. *RoboHow Second Joint Integration Workshop.* Bremen, Germany. *February 18, 2013.*
 - **de Kleijn, R.**, & Hommel, B. What psychology has to offer robotics. *RoboHow Integration Workshop.* Munich, Germany. *July 17, 2012.*
@@ -95,7 +95,7 @@ classes: wide
 
 ## Review and editorial
 - Guest editor *De Psycholoog [The Psychologist]* (2015)
-- Reviewer for *Addiction Biology*
+- Reviewer for *Cognition*
 - Reviewer for *Computers in Human Behavior*
 - Reviewer for *Frontiers in Neurorobotics*
 

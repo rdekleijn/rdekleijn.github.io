@@ -17,7 +17,7 @@ I am involved in teaching or coordinating the following courses:
 
 - Artificial Intelligence and Neurocognition
 - Introduction to Psychology *[Inleiding in de Psychologie]*
-- PSYC1000 General Psychology ([Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html))
+- PSYC1000 General Psychology @ [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html)
 - Reinforcement Learning and Decision Making: Neural and Computational Mechanisms
 - Cognitive Psychology *[Cognitieve Psychologie]*
 

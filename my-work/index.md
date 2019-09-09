@@ -51,7 +51,7 @@ classes: wide
 
 ## Other publications
 
-- **de Kleijn, R.** (2019). Het begrijpen van kunstmatige intelligentie [Understanding artificial intelligence]. Vakblad ARBO, 9.
+- **de Kleijn, R.** (2019). Het begrijpen van kunstmatige intelligentie [Understanding artificial intelligence]. *Vakblad ARBO, 9.*
 - **de Kleijn, R.**, & Kindermans, G. (2016). De vrije wil? Natuurlijk bestaat die! [Free will? Of course it exists!]. *De Psycholoog, 51*(2), 26–31. [[PDF](../assets/pdf/2016_DeKleijn_Kindermans_DePsycholoog.pdf)]
 - **de Kleijn, R.**, & Hommel, B. (2015). Verliefd op een robot: Geschiedenis en toekomst van de mens-robotinteractie [In love with a robot: History and future of human-robot interaction]. *De Psycholoog, 50*(11), 48–56. [[PDF](../assets/pdf/2015_DeKleijn_Hommel_DePsycholoog.pdf)]
 - **de Kleijn, R.** (December 23, 2014). Robots really are going to make our lives better. Leiden Psychology Blog.

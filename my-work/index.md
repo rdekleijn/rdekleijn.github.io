@@ -63,8 +63,11 @@ classes: wide
 
 ## Invited talks and media
 - **de Kleijn, R.** Artificial vs. biological intelligence: can we learn from each other? *SAILS Symposium: The future of AI is human,* Museum Volkenkunde, Leiden, Netherlands. *October 14, 2019. (invited talk)*
+- **de Kleijn, R.** Artificial intelligence voor cocktailparty's. *HKU Centre for Creative Technology, May 22, 2019. (invited talk)*
 - **de Kleijn, R.** Kunstmatige intelligentie: afkijken van natuurlijke intelligentie [Artificial intelligence: stealing from natural intelligence]. *Publiekssymposium Kunstmatige Intelligentie,* Leiden, Netherlands. *April 4, 2019. (invited talk)*
 - **de Kleijn, R.** & Poletiek, F. De taal van chatbot Mitsuku [The language of chatbot Mitsuku]. *Science Cafe Leiden,* Leiden, Netherlands. *March 12, 2019. (invited talk)*
+- **de Kleijn, R.** Cognitive robotics. *Brain and Cognition fraction, University of Amsterdam, March 5, 2019. (invited talk)*
+- **de Kleijn, R.** Verleden, heden en toekomst van de mens-robotrelatie [Past, present, and future of human-robot relationships]. *Foundation the North Sea Region in an Urbanising World,* Delft, Netherlands. *October 9, 2018. (invited talk)*
 - **de Kleijn, R.** Kunstmatige intelligentie: Vriend of vijand? [Artificial intelligence: Friend or enemy?] *Leeuwendaallezing,* Rijswijk, Netherlands. *September 30, 2018. (invited talk)*
 - **de Kleijn, R.** The dark side of science. *Science Meets Business Cafe Leiden, April 12, 2018. (invited talk)*
 - **de Kleijn, R.** Cognitieve robotica [Cognitive robotics]. *Science Cafe Leiden, April 10, 2018. (invited talk)*

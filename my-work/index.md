@@ -62,6 +62,8 @@ classes: wide
 - **de Kleijn, R.** (March 12, 2013). Measuring the unconscious mind. Leiden Psychology Blog.
 
 ## Invited talks and media
+- **de Kleijn, R.** Fundamentals of AI. *SIB Lecture,* Utrecht, Netherlands. *November 19, 2019. (invited talk)*
+- **de Kleijn, R.** AI in high-risk omgevingen. *Intergo netwerkbijeenkomst,* Amersfoort, Netherlands. *November 19, 2019. (invited talk)*
 - **de Kleijn, R.** Artificial vs. biological intelligence: can we learn from each other? *SAILS Symposium: The future of AI is human,* Museum Volkenkunde, Leiden, Netherlands. *October 14, 2019. (invited talk)*
 - **de Kleijn, R.** Artificial intelligence voor cocktailparty's. *HKU Centre for Creative Technology, May 22, 2019. (invited talk)*
 - **de Kleijn, R.** Kunstmatige intelligentie: afkijken van natuurlijke intelligentie [Artificial intelligence: stealing from natural intelligence]. *Publiekssymposium Kunstmatige Intelligentie,* Leiden, Netherlands. *April 4, 2019. (invited talk)*

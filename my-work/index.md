@@ -22,6 +22,7 @@ classes: wide
 
 ## Conference proceedings, talks, and posters
 
+- **de Kleijn, R.** & Hommel, B. Using deep neural networks to predict shooting incidents. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 19, 2019.*
 - **de Kleijn, R.**, Kachergis, G., & Hommel, B. Optimized behavior in a robot model of sequential action. *40th Annual Meeting of the Cognitive Science Society,* Madison, WI. *July 28, 2018.*
 - **de Kleijn, R.**, Kachergis, G., & Hommel, B. IQ and working memory predict plan-based sequential action learning. *40th Annual Meeting of the Cognitive Science Society,* Madison, WI. *July 28, 2018.*
 - **de Kleijn, R.**, Kachergis, G., & Hommel, B. Optimized sequential motor control in a virtual robot arm. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 14, 2017. (poster)*
@@ -53,7 +54,7 @@ classes: wide
 
 - **de Kleijn, R.** (2019). Het begrijpen van kunstmatige intelligentie [Understanding artificial intelligence]. *Arbo, 9,* 28–31. [[PDF](../assets/pdf/2019_DeKleijn_Arbo.pdf)]
 - **de Kleijn, R.**, & Kindermans, G. (2016). De vrije wil? Natuurlijk bestaat die! [Free will? Of course it exists!]. *De Psycholoog, 51*(2), 26–31. [[PDF](../assets/pdf/2016_DeKleijn_Kindermans_DePsycholoog.pdf)]
-- **de Kleijn, R.**, & Hommel, B. (2015). Verliefd op een robot: Geschiedenis en toekomst van de mens-robotinteractie [In love with a robot: History and future of human-robot interaction]. *De Psycholoog, 50*(11), 48–56. [[PDF](../assets/pdf/2015_DeKleijn_Hommel_DePsycholoog.pdf)]
+- **de Kleijn, R.** & Hommel, B. (2015). Verliefd op een robot: Geschiedenis en toekomst van de mens-robotinteractie [In love with a robot: History and future of human-robot interaction]. *De Psycholoog, 50*(11), 48–56. [[PDF](../assets/pdf/2015_DeKleijn_Hommel_DePsycholoog.pdf)]
 - **de Kleijn, R.** (December 23, 2014). Robots really are going to make our lives better. Leiden Psychology Blog.
 - **de Kleijn, R.** (June 3, 2014). Life, love, …and robots. LIBC Blog.
 - **de Kleijn, R.** (September 30, 2013). Winter blues? Leiden Psychology Blog.

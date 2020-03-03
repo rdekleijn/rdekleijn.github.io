@@ -20,6 +20,7 @@ I am involved in teaching or coordinating the following courses:
 - Introduction to Cognitive Science
 - Reinforcement Learning and Decision Making: Neural and Computational Mechanisms
 - Cognitive Psychology *[Cognitieve Psychologie]*
+- Cognitive Robotics
 
 ## Contact information
  

@@ -7,6 +7,7 @@ classes: wide
 
 ## International, peer-reviewed publications
 
+- Goekoop, R., & **de Kleijn, R.**(submitted). How higher goals are constructed and collapse under stress: a hierarchical Bayesian control systems perspective.
 - **de Kleijn, R.** (submitted). Neural network architectures for robot controllers in a dynamic foraging task.
 - **de Kleijn, R.**, Wijnen, M., & Poletiek, F. (2019). The effect of context-dependent information and sentence constructions on perceived humanness of an agent in a Turing test. *Knowledge-Based Systems, 163,* 794–799. [doi: [10.1016/j.knosys.2018.10.006](https://doi.org/10.1016/j.knosys.2018.10.006)]
 - **de Kleijn, R.**, van Es, L., Kachergis, G., & Hommel, B. (2019). Anthropomorphization of artificial agents leads to fair and strategic, but not altruistic behavior. *International Journal of Human–Computer Studies, 122,* 168–173. [doi: [10.1016/j.ijhcs.2018.09.008](https://doi.org/10.1016/j.ijhcs.2018.09.008)]

@@ -8,7 +8,7 @@ classes: wide
 ## International, peer-reviewed publications
 
 - **de Kleijn, R.** (submitted). Neural network architectures for robot controllers in a dynamic foraging task.
-- Goekoop, R., & **de Kleijn, R.**(2020). How higher goals are constructed and collapse under stress: a hierarchical Bayesian control systems perspective. *[arXiv pre-print 2004.09426 [q-bio.NC]](https://arxiv.org/abs/2004.09426).*
+- Goekoop, R., & **de Kleijn, R.** (2020). How higher goals are constructed and collapse under stress: a hierarchical Bayesian control systems perspective. *[arXiv pre-print 2004.09426 [q-bio.NC]](https://arxiv.org/abs/2004.09426).*
 - **de Kleijn, R.**, Wijnen, M., & Poletiek, F. (2019). The effect of context-dependent information and sentence constructions on perceived humanness of an agent in a Turing test. *Knowledge-Based Systems, 163,* 794–799. [doi: [10.1016/j.knosys.2018.10.006](https://doi.org/10.1016/j.knosys.2018.10.006)]
 - **de Kleijn, R.**, van Es, L., Kachergis, G., & Hommel, B. (2019). Anthropomorphization of artificial agents leads to fair and strategic, but not altruistic behavior. *International Journal of Human–Computer Studies, 122,* 168–173. [doi: [10.1016/j.ijhcs.2018.09.008](https://doi.org/10.1016/j.ijhcs.2018.09.008)]
 - Heijnen, S., **de Kleijn, R.**, & Hommel, B. (2019). The impact of human-robot synchronization on anthropomorphization. *Frontiers in Psychology,* 9:2607. [doi: [10.3389/fpsyg.2018.02607](http://dx.doi.org/10.3389/fpsyg.2018.02607)] [[PDF](../assets/pdf/2019_Heijnen_DeKleijn_Hommel_FrontPsychol.pdf)]

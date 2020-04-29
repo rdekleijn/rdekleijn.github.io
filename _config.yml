@@ -111,7 +111,7 @@ author:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   url: mailto:kleijnrde@fsw.leidenuniv.nl
-    - label: "Website"
+    - label: "University profile"
       icon: "fas fa-fw fa-link"
       url: "https://www.universiteitleiden.nl/en/staffmembers/roy-de-kleijn"
     - label: "Twitter"

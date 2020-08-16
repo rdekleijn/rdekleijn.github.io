@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-## International, peer-reviewed publications
+## Papers
 
 - **de Kleijn, R.** (submitted). Neural network architectures for robot controllers in a dynamic foraging task.
 - van Dooren, R., **de Kleijn, R.**, Hommel, B., & Sjoerds, Z. (submitted). The exploitation/exploration trade-off in a foraging task is affected by mood-related arousal and valence.
@@ -14,7 +14,11 @@ classes: wide
 - **de Kleijn, R.**, van Es, L., Kachergis, G., & Hommel, B. (2019). Anthropomorphization of artificial agents leads to fair and strategic, but not altruistic behavior. *International Journal of Human–Computer Studies, 122,* 168–173. [doi: [10.1016/j.ijhcs.2018.09.008](https://doi.org/10.1016/j.ijhcs.2018.09.008)]
 - Heijnen, S., **de Kleijn, R.**, & Hommel, B. (2019). The impact of human-robot synchronization on anthropomorphization. *Frontiers in Psychology,* 9:2607. [doi: [10.3389/fpsyg.2018.02607](http://dx.doi.org/10.3389/fpsyg.2018.02607)] [[PDF](../assets/pdf/2019_Heijnen_DeKleijn_Hommel_FrontPsychol.pdf)]
 - **de Kleijn, R.**, Kachergis, G., & Hommel, B. (2018). Predictive movements and human reinforcement learning of sequential action. *Cognitive Science, 42,* 783–808. [doi: [10.1111/cogs.12599](http://dx.doi.org/10.1111/cogs.12599)] [[PDF](../assets/pdf/2018_DeKleijn_Kachergis_Hommel_CogSci.pdf)]
+- **de Kleijn, R.**, Kachergis, G., & Hommel, B. (2018). Optimized behavior in a robot model of sequential action. *Proceedings of the 40th Annual Conference of the Cognitive Science Society.*
+- **de Kleijn, R.**, Kachergis, G., & Hommel, B. (2018). IQ and working memory predict plan-based sequential action learning. *Proceedings of the 40th Annual Conference of the Cognitive Science Society.*
 - Mahdizadeh Hakak, A., Bhattacharya, J., Biloria, N., **de Kleijn, R.**, & Shah-Mohammadi, F. (2016). Navigating abstract virtual environments: An EEG study. *Cognitive Neurodynamics, 10,* 471–480. [doi: [10.1007/s11571-016-9395-z](http://dx.doi.org/10.1007/s11571-016-9395-z)]
+- Kachergis, G., **de Kleijn, R.**, & Hommel, B. (2016). A Dream Model: Reactivation and re-encoding mechanisms for sleep-dependent memory consolidation. *Proceedings of the 38th Annual Conference of the Cognitive Science Society.*
+- Kachergis, G., Berends, F., **de Kleijn, R.**, & Hommel, B. (2016). Human reinforcement learning of sequential action. *Proceedings of the 38th Annual Conference of the Cognitive Science Society.*
 - Koenders, M. A., **de Kleijn, R.**, Giltay, E. J., Elzinga, B. M., Spinhoven, P., & Spijker, A. T. (2015). A network approach to bipolar symptomatology in patients with different course types. *PLOS ONE,* 10(10): e0141420. [doi: [10.1371/journal.pone.0141420](http://dx.doi.org/10.1371/journal.pone.0141420)] [[PDF](../assets/pdf/2015_Koenders_et_al_PLOS.pdf)]
 - Boonstra, E., **de Kleijn, R.**, Colzato, L. S., Alkemade, A., Forstmann, B. U., & Nieuwenhuis, S. (2015). Neurotransmitters as food supplements: the effects of GABA on brain and behavior. *Frontiers in Psychology,* 6:1520. [doi: [10.3389/fpsyg.2015.01520](http://dx.doi.org/10.3389/fpsyg.2015.01520)] [[PDF](../assets/pdf/2015_Boonstra_etal_FrontPsychol.pdf)]
 - Kachergis, G., Wyatte, D., O’Reilly, R. C., **de Kleijn, R.**, & Hommel, B. (2014). A continuous-time neural model for sequential action. *Philosophical Transactions of the Royal Society B: Biological Sciences, 369:* 20130623. [doi: [10.1098/rstb.2013.0623](http://dx.doi.org/10.1098/rstb.2013.0623)] [[PDF](../assets/pdf/2014_Kachergis_Wyatte_OReilly_DeKleijn_Hommel_PTRSB.pdf)]
@@ -22,17 +26,13 @@ classes: wide
 - Nieuwenhuis, S., & **de Kleijn, R.** (2013). The impact of alertness on cognitive control. *Journal of Experimental Psychology: Human Perception and Performance, 39,* 1797–1801. [doi: [10.1037/a0033980](http://dx.doi.org/10.1037/a0033980)]
 - Nieuwenhuis, S., & **de Kleijn, R.** (2011). Consciousness of targets during the attentional blink: A gradual or all-or-none dimension? *Attention, Perception, & Psychophysics, 73,* 364–373. [doi: [10.3758/s13414-010-0026-1](http://dx.doi.org/10.3758/s13414-010-0026-1)] [[PDF](../assets/pdf/2011_Nieuwenhuis_DeKleijn_AP&P.pdf)]
 
-## Conference proceedings, talks, and posters
+## Conference talks and poster presentations
 
 - **de Kleijn, R.** & Hommel, B. Using deep neural networks to predict shooting incidents. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 19, 2019.*
-- **de Kleijn, R.**, Kachergis, G., & Hommel, B. Optimized behavior in a robot model of sequential action. *40th Annual Meeting of the Cognitive Science Society,* Madison, WI. *July 28, 2018.*
-- **de Kleijn, R.**, Kachergis, G., & Hommel, B. IQ and working memory predict plan-based sequential action learning. *40th Annual Meeting of the Cognitive Science Society,* Madison, WI. *July 28, 2018.*
 - **de Kleijn, R.**, Kachergis, G., & Hommel, B. Optimized sequential motor control in a virtual robot arm. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 14, 2017. (poster)*
 - Mekern, V., **de Kleijn, R.**, & Hommel, B. Level of striatal dopamine does not predict visual and cognitive search behavior. *International Conference for Cognitive Neuroscience,* Amsterdam, Netherlands. *August 8, 2017. (poster)*
 - van Dooren, R., **de Kleijn, R.**, Mekern, V., Sellaro, R., & Hommel, B. No evidence for cross-domain priming from visual to cognitive search. *International Conference for Cognitive Neuroscience,* Amsterdam, Netherlands. *August 6, 2017. (poster)*
 - Heijnen, S., **de Kleijn, R.**, & Hommel, B. The effect of human–robot synchronization on the tendency to anthropomorphize. *International Conference for Cognitive Neuroscience,* Amsterdam, Netherlands. *August 5, 2017. (poster)*
-- Kachergis, G., **de Kleijn, R.**, & Hommel, B. (2016). A dream model: Reactivation and re-encoding mechanisms for sleep-dependent memory consolidation. *Proceedings of the 38th Annual Conference of the Cognitive Science Society,* 1601–1606.
-- Kachergis, G., Berends, F., **de Kleijn, R.**, & Hommel, B. (2016). Human reinforcement learning of sequential action. *Proceedings of the 38th Annual Conference of the Cognitive Science Society,* 193–198.
 - van Es, L., **de Kleijn, R.**, Kachergis, B., & Hommel, B. Empathic response to cute and scary robots. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 19, 2015. (poster)*
 - Boonstra, E., **de Kleijn, R.**, Colzato, L. S., Alkemade, A., Forstmann, B. U., & Nieuwenhuis, S. Neurotransmitters as food supplements: the behavioral effects of GABA. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 19, 2015. (poster)*
 - **de Kleijn, R.**, Kachergis, G., & Hommel, B. A novel algorithm for action component substitution in robots. *LIBC Member Meeting,* Leiden, Netherlands. *May 28, 2015. (poster)*

@@ -8,6 +8,7 @@ classes: wide
 ## Papers
 
 - **de Kleijn, R.**, Sen, D., & Kachergis, G. (coming soon!). Deep reinforcement learning of sequential action results in human-like optimization in a robotic arm controller.
+- van Hoek, L., Saunders, R., & **de Kleijn, R.** (coming soon!). Evolving virtual embodied agents using external artifact evaluations.
 - **de Kleijn, R.** (coming soon!). Neural network architectures for robot controllers in a dynamic foraging task.
 - van Dooren, R., **de Kleijn, R.**, Hommel, B., & Sjoerds, Z. (coming soon!). The exploitation/exploration trade-off in a foraging task is affected by mood-related arousal and valence.
 - Goekoop, R., & **de Kleijn, R.** (2020). How higher goals are constructed and collapse under stress: a hierarchical Bayesian control systems perspective. *[arXiv pre-print 2004.09426 [q-bio.NC]](https://arxiv.org/abs/2004.09426).*

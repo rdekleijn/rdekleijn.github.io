@@ -28,7 +28,7 @@ classes: wide
 - Nieuwenhuis, S., & de Kleijn, R. (2013). The impact of alertness on cognitive control. *Journal of Experimental Psychology: Human Perception and Performance, 39,* 1797–1801. [doi: [10.1037/a0033980](http://dx.doi.org/10.1037/a0033980)]
 - Nieuwenhuis, S., & de Kleijn, R. (2011). Consciousness of targets during the attentional blink: A gradual or all-or-none dimension? *Attention, Perception, & Psychophysics, 73,* 364–373. [doi: [10.3758/s13414-010-0026-1](http://dx.doi.org/10.3758/s13414-010-0026-1)] [[PDF](../assets/pdf/2011_Nieuwenhuis_DeKleijn_AP&P.pdf)]
 
-## Conference talks and poster presentations
+## Talks and poster presentations
 
 - de Kleijn, R. & Hommel, B. Using deep neural networks to predict shooting incidents. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 19, 2019.*
 - de Kleijn, R., Kachergis, G., & Hommel, B. Optimized sequential motor control in a virtual robot arm. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 14, 2017. (poster)*

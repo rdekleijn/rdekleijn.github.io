@@ -112,8 +112,10 @@ classes: wide
 - Reviewer for *Cognition*
 - Reviewer for *Computers in Human Behavior*
 - Reviewer for *Frontiers in Neurorobotics*
+- Reviewer for *Addiction Biology*
+- Reviewer for *Minds and Machines*
 
 ## Board memberships
-- Secretary of *Nederlandse Vereniging voor Psychonomie [Dutch Psychonomics Society]* (2015–present)
+- Secretary of *Nederlandse Vereniging voor Psychonomie [Dutch Psychonomics Society]* (2015–2021)
 - Treasurer of *LEO [Leiden PhD Association]* (2013–2014)
 - Chairman of *LEO [Leiden PhD Association]* (2012–2013)

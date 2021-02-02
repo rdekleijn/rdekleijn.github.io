@@ -112,7 +112,7 @@ classes: wide
 - Reviewer for *Cognition*
 - Reviewer for *Computers in Human Behavior*
 - Reviewer for *Frontiers in Neurorobotics*
-- Reviewer for *Addiction Biology*
+- Reviewer for *Knowledge-Based Systems*
 - Reviewer for *Minds and Machines*
 
 ## Board memberships

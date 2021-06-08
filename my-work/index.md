@@ -7,7 +7,7 @@ classes: wide
 
 ## Papers
 
-- Goekoop, R., & de Kleijn, R. (coming soon!). Permutation entropy: An objective disorder criterion in biological, psychological and social systems.
+- Goekoop, R., & de Kleijn, R. (coming soon!). Permutation entropy: war and disorder as different manifestations of the same underlying principle.
 - Vegt, P. S., & de Kleijn, R. (coming soon!). Cognitive effects of the anthropomorphization of artificial agents in human–agent interactions.
 - de Kleijn, R. (coming soon!). Artificial intelligence and cognitive science.
 - de Kleijn, R., Sen, D., & Kachergis, G. (coming soon!). Deep reinforcement learning of sequential action results in human-like optimization in a robotic arm controller.

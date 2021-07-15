@@ -36,6 +36,7 @@ classes: wide
 
 ## Talks and poster presentations
 
+- de Kleijn, R. Evolutionary algorithms in computational art. *ASIC 2021,* San Martino di Castrozza, Italy. *July 14, 2021.*
 - de Kleijn, R. & Hommel, B. Using deep neural networks to predict shooting incidents. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 19, 2019.*
 - de Kleijn, R., Kachergis, G., & Hommel, B. Optimized sequential motor control in a virtual robot arm. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 14, 2017. (poster)*
 - Mekern, V., de Kleijn, R., & Hommel, B. Level of striatal dopamine does not predict visual and cognitive search behavior. *International Conference for Cognitive Neuroscience,* Amsterdam, Netherlands. *August 8, 2017. (poster)*

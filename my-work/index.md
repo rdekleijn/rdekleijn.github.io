@@ -59,6 +59,7 @@ classes: wide
 
 ## Book chapters
 
+- de Kleijn, R. (in press). Artificial intelligence versus biological intelligence: A historical overview. In B. Custers & E. Fosch Villaronga (Eds.), *Law and artificial intelligence.* Springer. 
 - de Kleijn, R., Kachergis, G., & Hommel, B. (2015). Robotic action control: On the crossroads of cognitive psychology and robotics. In H. Samani (Ed.), *Cognitive robotics.* Taylor & Francis. [[link](https://www.crcpress.com/Cognitive-Robotics/Samani/p/book/9781482244564)] [[PDF](../assets/pdf/2015_DeKleijn_Kachergis_Hommel_CogRobChapter.pdf)]
 
 ## Other publications

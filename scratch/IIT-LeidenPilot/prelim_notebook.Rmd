@@ -1,0 +1,261 @@
+---
+title: "IIT Delhi-Leiden Pilot"
+output:
+  html_document:
+    df_print: paged
+  html_notebook: default
+  pdf_document:
+    latex_engine: xelatex
+---
+
+Preliminary analyses over pilot data to see if it makes sense.
+
+```{r preparation, include=FALSE}
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(ggplot2)
+library(reshape2)
+library(ggstatsplot)
+library(afex)
+library(GGally)
+library(lme4)
+
+
+# Import data
+full_df <- read.csv('../data/20210930.tsv', sep='\t', header=TRUE, skipNul=TRUE, stringsAsFactors=FALSE, fileEncoding = 'UTF-16LE')
+full_df <- full_df[3:nrow(full_df),]
+
+# Prepare dataset
+cols_to_covert_num <- c(colnames(full_df)[19:486], "Duration..in.seconds.")
+full_df[cols_to_covert_num] <- sapply(full_df[cols_to_covert_num],as.numeric)
+
+# Remove unsuitable data
+full_df <- subset(full_df, Duration..in.seconds. > 600)
+full_df <- subset(full_df, Progress == 100)
+
+```
+
+```{r conversion, include=FALSE, cache=FALSE}
+
+for (subj in 1:nrow(full_df)) {
+  for (robot in 1:18){
+    robot_name <- paste("X", robot, sep="")
+
+    sumlike <- sum(get(paste("X", robot, "_Q1_1", sep=""), full_df[subj,]), get(paste("X", robot, "_Q1_1.1", sep=""), full_df[subj,]), na.rm=TRUE)
+    full_df[[paste0(robot_name, "_like")]][subj] <- sumlike
+
+    phys_sim <- sum(get(paste("X", robot, "_Q2_1", sep=""), full_df[subj,]), get(paste("X", robot, "_Q2_1.1", sep=""), full_df[subj,]), na.rm=TRUE)
+    full_df[[paste0(robot_name, "_phys_sim")]][subj] <- phys_sim
+    
+    think_hum <- sum(get(paste("X", robot, "_Q3_1", sep=""), full_df[subj,]), get(paste("X", robot, "_Q3_1.1", sep=""), full_df[subj,]), na.rm=TRUE)
+    full_df[[paste0(robot_name, "_think_hum")]][subj] <- think_hum
+    
+    friendly <- sum(get(paste("X", robot, "_Q4_1", sep=""), full_df[subj,]), get(paste("X", robot, "_Q4_1.1", sep=""), full_df[subj,]), na.rm=TRUE)
+    full_df[[paste0(robot_name, "_friendly")]][subj] <- friendly
+    
+    creepy <- sum(get(paste("X", robot, "_Q5_1", sep=""), full_df[subj,]), get(paste("X", robot, "_Q5_1.1", sep=""), full_df[subj,]), na.rm=TRUE)
+    full_df[[paste0(robot_name, "_creepy")]][subj] <- creepy
+    
+    plan_indep <- sum(get(paste("X", robot, "_Q6_1", sep=""), full_df[subj,]), get(paste("X", robot, "_Q6_1.1", sep=""), full_df[subj,]), na.rm=TRUE)
+    full_df[[paste0(robot_name, "_plan_indep")]][subj] <- plan_indep
+    
+    feel_emo <- sum(get(paste("X", robot, "_Q7_1", sep=""), full_df[subj,]), get(paste("X", robot, "_Q7_1.1", sep=""), full_df[subj,]), na.rm=TRUE)
+    full_df[[paste0(robot_name, "_feel_emo")]][subj] <- feel_emo
+    
+    vacuum <- sum(get(paste("X", robot, "_Q8_1", sep=""), full_df[subj,]), get(paste("X", robot, "_Q8_1.1", sep=""), full_df[subj,]), na.rm=TRUE)
+    full_df[[paste0(robot_name, "_vacuum")]][subj] <- vacuum
+    
+    cook <- sum(get(paste("X", robot, "_Q9_1", sep=""), full_df[subj,]), get(paste("X", robot, "_Q9_1.1", sep=""), full_df[subj,]), na.rm=TRUE)
+    full_df[[paste0(robot_name, "_cook")]][subj] <- cook
+    
+    care_family <- sum(get(paste("X", robot, "_Q10_1", sep=""), full_df[subj,]), get(paste("X", robot, "_Q10_1.1", sep=""), full_df[subj,]), na.rm=TRUE)
+    full_df[[paste0(robot_name, "_care_family")]][subj] <- care_family
+
+    touch <- sum(get(paste("X", robot, "_Q11_1", sep=""), full_df[subj,]), get(paste("X", robot, "_Q11_1.1", sep=""), full_df[subj,]), na.rm=TRUE)
+    full_df[[paste0(robot_name, "_touch")]][subj] <- touch
+    
+    want_to_have <- sum(get(paste("X", robot, "_Q12_1", sep=""), full_df[subj,]), get(paste("X", robot, "_Q12_1.1", sep=""), full_df[subj,]), na.rm=TRUE)
+    full_df[[paste0(robot_name, "_want_to_have")]][subj] <- want_to_have
+    
+    dictator_offer <- sum(get(paste("X", robot, "_Q13", sep=""), full_df[subj,]), get(paste("X", robot, "_Q13.1", sep=""), full_df[subj,]), na.rm=TRUE)
+    if (full_df[subj,"Country"] == "India") {
+      dictator_offer <- dictator_offer / 250
+    } else {
+      dictator_offer <- dictator_offer / 10
+    }
+    full_df[[paste0(robot_name, "_dictator_offer")]][subj] <- dictator_offer
+    
+    
+  }
+}
+
+
+data_long <- gather(full_df, QuestionType, value, X1_like:X18_dictator_offer, factor_key=TRUE)
+data_long$RobotType <- gsub(".*[X]([^_]+)[_].*", "\\1", data_long$QuestionType)
+data_long$Question <- sub("^[^_]*_", "", data_long$QuestionType)
+data_long$RobotType <- as.factor(data_long$RobotType)
+data_long$Question <- as.factor(data_long$Question)
+data_long$RobotType <- factor(data_long$RobotType, levels = as.character(1:18))
+
+data_wide <- dcast(data_long, ResponseId + Country + RobotType ~ Question, value.var="value")
+
+```
+
+# General sample characteristics
+
+The pilot data contains `r length(unique(data_long$ResponseId))` subjects.
+
+```{r echo=FALSE, fig.height=7, fig.width=11, message=FALSE, warning=FALSE, cache=TRUE}
+ggwithinstats(
+  data = data_wide,
+  x = RobotType,
+  y = like,
+  type = "parametric",
+  xlab = "Robot number",
+  ylab = "I like this robot",
+  title = "Likeability of the robots",
+  package = "beyonce",
+  palette = "X95",
+  bf.message = TRUE,
+  centrality.plotting = TRUE,
+  subject.id = "ResponseId"
+)
+
+
+ggwithinstats(
+  data = data_wide,
+  x = RobotType,
+  y = want_to_have,
+  type = "parametric",
+  xlab = "Robot number",
+  ylab = "I would like to have this robot",
+  title = "Do you want to have this robot?",
+  package = "beyonce",
+  palette = "X95",
+  bf.message = TRUE,
+  centrality.plotting = TRUE,
+  subject.id = "ResponseId"
+)
+
+
+ggwithinstats(
+  data = data_wide,
+  x = RobotType,
+  y = touch,
+  type = "parametric",
+  xlab = "Robot number",
+  ylab = "I would like to be touched by this robot",
+  title = "Willingness to be touched by robots",
+  package = "beyonce",
+  palette = "X95",
+  bf.message = TRUE,
+  centrality.plotting = TRUE,
+  subject.id = "ResponseId"
+)
+
+```
+
+
+# Some preliminary correlations
+
+
+```{r corrs, echo=FALSE, fig.height=9, fig.width=9}
+ggcorrmat(
+  data = data_wide[,3:15],
+  colors = c("#B2182B", "white", "#4D4D4D"),
+  title = "Correlogram over all variables"
+)
+
+```
+
+```{r corrs1, echo=FALSE, fig.height=6, fig.width=7}
+
+ggscatterstats(
+  data = data_wide,
+  x = friendly,
+  y = creepy,
+  xlab = "Rated friendliness",
+  ylab = "Rated creepiness",
+  title = "Friendliness and creepiness"
+)
+```
+
+```{r corrs2, echo=FALSE, fig.height=6, fig.width=7}
+
+ggscatterstats(
+  data = data_wide,
+  x = like,
+  y = dictator_offer,
+  xlab = "Rated likeability",
+  ylab = "Proportion offered in dictator game",
+  title = "Likeability and dictator game behavior"
+)
+
+```
+
+
+```{r corrs4, echo=FALSE, fig.height=6, fig.width=7}
+
+ggscatterstats(
+  data = data_wide,
+  x = care_family,
+  y = dictator_offer,
+  xlab = "I would allow this robot to take care of my family",
+  ylab = "Proportion offered in dictator game",
+  title = "Allowing a robot to care for family and dictator game behavior"
+)
+
+```
+
+## Dictator game behavior
+
+```{r country, echo=FALSE, fig.height=6, fig.width=7}
+
+# plot
+ggbetweenstats(
+  data = data_wide,
+  x = Country,
+  y = dictator_offer,
+  title = "Proportion offered by country"
+)
+
+```
+
+```{r corrs3, echo=FALSE, fig.height=6, fig.width=7}
+
+ggscatterstats(
+  data = data_wide,
+  x = feel_emo,
+  y = dictator_offer,
+  xlab = "Rated ability to feel emotions",
+  ylab = "Proportion offered in dictator game",
+  title = "Ability to feel emotions and dictator game behavior"
+)
+
+
+ggscatterstats(
+  data = subset(data_wide, feel_emo>5 & feel_emo<95 & dictator_offer >.05 & dictator_offer <.95),
+  x = feel_emo,
+  y = dictator_offer,
+  xlab = "Rated ability to feel emotions",
+  ylab = "Proportion offered in dictator game",
+  title = "Ability to feel emotions and dictator game behavior"
+)
+
+
+```
+
+There is a significant positive relationship between the perceived ability to feel pain and the proportion of the stake awarded in a dictator game. But for a thorough analysis we will need a linear model accounting for subject.
+
+### Hierarchical linear model
+
+```{r lin_model_dictator_emo, echo=FALSE}
+mixed.lmer <- lmer(dictator_offer ~ feel_emo + (1|ResponseId), data = data_wide)
+summary(mixed.lmer)
+
+```
+
+
+
+

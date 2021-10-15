@@ -5,9 +5,8 @@ author_profile: true
 classes: wide
 ---
 
-Location: [Snellius xxx](https://goo.gl/maps/2R1QxpEoGojjvriu7), Faculty of Science, Leiden University
-
-Date and time: Friday, 19 November 2021 from 17:00 to 00:00
+- Location: [Snellius xxx](https://goo.gl/maps/2R1QxpEoGojjvriu7), Faculty of Science, Leiden University
+- Date and time: Friday, 19 November 2021 from 17:00 to 00:00
 
 ## What is this about?
 Fundamentally, this is about human and artificial intelligence. Human intelligence is commonly measured by means of an IQ-test, quantifying the intellectual capabilities of a person in different domains such as analogical reasoning, vocabulary, and common knowledge. 

@@ -20,6 +20,8 @@ In this hackathon, all teams will create a computer program that can solve non-v
 4. 19:45–23:00 Programming
 5. 23:00–00:00 Testing of solutions and high-fiving the winning team
 
+Food in the form of pizza (also vegetarian) and snacks will be provided. Drinks in the form of beer and soft drinks (also water) will be provided.
+
 ## Who are eligible to participate?
 Participation is open to all members of the Leiden academic community, from BA/BSc students to professors. We encourage mixed-seniority teams and interdisciplinary teams to apply.
 

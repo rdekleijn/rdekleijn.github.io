@@ -37,7 +37,7 @@ Note that details below may change. If so, this information will be provided at 
 You will create a computer program that can solve [Raven's Progressive Matrices](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)-like puzzles. 2x2 puzzles will be provided as 3 PNG files, with 6 PNG files as possible answers. 3x3 puzzles will be provided as 8 PNG files, with 8 PNG files as possible answers. Given the input files, your program should print the file name of the correct answer to console (or stdout).
 
 ### What language should I use?
-You can use your language of choice. However, we encourage you to make sure beforehand you have all necessary libraries to read PNG files (e.g. Pillow for Python, javax.imageio for Java).
+You can use your language of choice. However, we encourage you to make sure beforehand you have all necessary libraries to read PNG files (e.g. Pillow for Python, javax.imageio for Java, OpenCV with appropriate bindings).
 
 
 

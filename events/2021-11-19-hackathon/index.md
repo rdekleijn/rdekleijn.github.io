@@ -25,7 +25,7 @@ Food in the form of pizza (also vegetarian) and snacks will be provided. Drinks 
 ## Who are eligible to participate?
 Participation is open to all members of the Leiden academic community, from BA/BSc students to professors. We encourage mixed-seniority teams and interdisciplinary teams to apply.
 
-### Will a computer be provided?
+## Will a computer be provided?
 No, you are expected to bring your own device.
 
 

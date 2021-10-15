@@ -6,7 +6,12 @@ classes: wide
 ---
 
 Location: Snellius xxx, Faculty of Science, Leiden University
+
 Date and time: Friday, 19 November 2021 from 17:00 to 00:00
 
 ## What is this about?
 Bla.
+
+
+## Who are eligible to participate?
+Participation is open to all members of the Leiden academic community, from BA/BSc students to professors. In fact, we encourage mixed-seniority teams and interdisciplinary teams to apply.

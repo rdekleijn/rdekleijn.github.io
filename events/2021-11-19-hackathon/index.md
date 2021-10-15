@@ -17,5 +17,5 @@ Participation is open to all members of the Leiden academic community, from BA/B
 
 ## Technical details
 ### What is the deliverable?
-You will create a computer program that can solve Raven's Progressive Matrices-like puzzles. You can use your language of choice.
+You will create a computer program that can solve [Raven's Progressive Matrices](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)-like puzzles. You can use your language of choice.
 

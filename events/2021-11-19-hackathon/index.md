@@ -40,4 +40,5 @@ You will create a computer program that can solve [Raven's Progressive Matrices]
 You can use your language of choice. However, we encourage you to make sure beforehand you have all necessary libraries to read PNG files (e.g. Pillow for Python, javax.imageio for Java, OpenCV with appropriate bindings).
 
 
-
+## Organizers
+This hackathon is organized by [Roy de Kleijn](https://www.universiteitleiden.nl/en/staffmembers/roy-de-kleijn) and [Tessa Verhoef](https://www.universiteitleiden.nl/en/staffmembers/tessa-verhoef). We would like to thank the [SAILS](https://www.universiteitleiden.nl/en/sails) initiative and the [Leiden Institute for Brain and Cognition](https://www.universiteitleiden.nl/en/social-behavioural-sciences/libc) for sponsoring this event.

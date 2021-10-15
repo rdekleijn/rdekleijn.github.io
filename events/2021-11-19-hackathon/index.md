@@ -10,7 +10,8 @@ Location: [Snellius xxx](https://goo.gl/maps/2R1QxpEoGojjvriu7), Faculty of Scie
 Date and time: Friday, 19 November 2021 from 17:00 to 00:00
 
 ## What is this about?
-Bla.
+Fundamentally, this is about human and artificial intelligence. Human intelligence is commonly measured by means of an IQ-test, quantifying the intellectual capabilities of a person in different domains such as analogical reasoning, vocabulary, and common knowledge. 
+
 
 
 ## Who are eligible to participate?

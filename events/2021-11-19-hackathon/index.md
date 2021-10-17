@@ -20,7 +20,9 @@ In this hackathon, each team will create a computer program that can solve non-v
 4. 19:45–23:00 Programming
 5. 23:00–00:00 Testing of solutions with test items and high-fiving the winning team
 
-Food in the form of pizza (also vegetarian) and snacks will be provided. Drinks in the form of beer and soft drinks (also water) will be provided. Note that the event ends at midnight. It may be a good idea to check your return trip home and/or get an OV-fiets.
+Food in the form of pizza (also vegetarian) and snacks will be provided. Drinks in the form of beer and soft drinks (also water) will be provided. 
+
+> Note that the event ends at midnight. It may be a good idea to check your return trip home and/or get an OV-fiets.
 
 ## Who are eligible to participate?
 Participation is open to all members of the Leiden academic community, from BA/BSc students to professors. We encourage mixed-seniority teams and interdisciplinary teams to apply.

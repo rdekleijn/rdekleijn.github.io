@@ -25,7 +25,7 @@ Food in the form of pizza (also vegetarian) and snacks will be provided. Drinks 
 > Note that the event ends at midnight. It may be a good idea to check your return trip home and/or get an OV-fiets.
 
 ## Who are eligible to participate?
-Participation is open to all members of the Leiden academic community, from BA/BSc students to professors. We encourage mixed-seniority teams and interdisciplinary teams to apply.
+Participation is open to teams with at least one member of the Leiden academic community, from BA/BSc students to professors. We encourage mixed-seniority teams and interdisciplinary teams to apply.
 
 ## Will a computer be provided?
 No, you are expected to bring your own device. Power outlets and access to Eduroam and the Leiden University WiFi are available.

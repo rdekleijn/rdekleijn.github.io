@@ -14,9 +14,9 @@ Fundamentally, this hackathon is about human and artificial intelligence. Human 
 In this hackathon, each team will create a computer program that can solve non-verbal IQ test items similar to [Raven's Progressive Matrices](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices). At the start of the event, we will provide you with 10 training items (puzzles and the correct answer in PNG format). At the end, we will test each team's solution on 10 unseen test items. **The team that can solve most puzzles will win the hackathon.**
 
 ## Approximate schedule
-1. 17:00–17:30 Welcome
+1. 17:00–17:30 Welcome and introduction of teams
 2. 17:30–19:00 Release of training items and programming
-3. 19:00–19:45 Pizza dinner
+3. 19:00–19:45 Pizza and beer dinner
 4. 19:45–23:00 Programming
 5. 23:00–00:00 Testing of solutions with test items and high-fiving the winning team
 

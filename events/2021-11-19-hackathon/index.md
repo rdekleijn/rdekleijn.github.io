@@ -43,4 +43,4 @@ You can use your language of choice. However, we encourage you to make sure befo
 
 
 ## Organizers
-This hackathon is organized by [Roy de Kleijn](https://www.universiteitleiden.nl/en/staffmembers/roy-de-kleijn) and [Tessa Verhoef](https://www.universiteitleiden.nl/en/staffmembers/tessa-verhoef). We would like to thank the [SAILS](https://www.universiteitleiden.nl/en/sails) initiative and the [Leiden Institute for Brain and Cognition](https://www.universiteitleiden.nl/en/social-behavioural-sciences/libc) for sponsoring this event.
+This hackathon is organized by [Roy de Kleijn](https://www.universiteitleiden.nl/en/staffmembers/roy-de-kleijn) and [Tessa Verhoef](https://www.universiteitleiden.nl/en/staffmembers/tessa-verhoef) with valuable support by [Mischa Hautvast](https://www.universiteitleiden.nl/medewerkers/mischa-hautvast). We would like to thank the [SAILS](https://www.universiteitleiden.nl/en/sails) initiative and the [Leiden Institute for Brain and Cognition](https://www.universiteitleiden.nl/en/social-behavioural-sciences/libc) for sponsoring this event.

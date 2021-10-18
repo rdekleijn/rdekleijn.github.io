@@ -25,7 +25,7 @@ Food in the form of pizza (also vegetarian) and snacks will be provided. Drinks 
 > Note that the event ends at midnight. It may be a good idea to check your return trip home and/or get an OV-fiets.
 
 ## Who are eligible to participate?
-Participation is open to teams from 1 to 4 individuals with at least one member of the Leiden academic community, from BA/BSc students to professors. We encourage mixed-seniority teams and interdisciplinary teams to apply.
+Participation is open to teams from 1 to 4 individuals from the Leiden academic community, from BA/BSc students to professors. It's no problem if some team members are not affiliated with Leiden University, so feel free to register with your housemates or friends. We encourage mixed-seniority teams and interdisciplinary teams to apply.
 
 ## What does it cost to register?
 Participation is free for all participants.

@@ -42,6 +42,7 @@ Note that details below may change. If so, this information will be provided at 
 You will create a computer program that can solve [Raven's Progressive Matrices](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)-like puzzles. 2×2 puzzles will be provided as 3 PNG files, with 6 PNG files as possible answers. 3×3 puzzles will be provided as 8 PNG files, with 8 PNG files as possible answers. Given the input files for a specific puzzle, your program should print the file name of the correct answer to console (or stdout).
 
 *Example of a Raven's Progressive Matrices item*
+
 ![Example of a Raven's Progressive Matrices item](https://www.iqmindware.com/wp-content/uploads/2012/10/RAPM1.jpg "Example of a Raven's Progressive Matrices item")
 
 ### What language should I use?

@@ -12,7 +12,7 @@ classes: wide
 ## What is this about?
 Fundamentally, this hackathon is about human and artificial intelligence. Human intelligence is commonly measured by means of an IQ test, quantifying the intellectual capabilities of a person in different domains such as analogical reasoning, vocabulary, processing speed, and general knowledge. Let's see how far we get in getting a computer to show some of the same capabilities.
 
-In this hackathon, each team will create a computer program that can solve non-verbal IQ test items similar to [Raven's Progressive Matrices](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices). At the start of the event, we will provide you with 10 training items (puzzles and the correct answer in PNG format). At the end, we will test each team's solution on 10 unseen test items. **The team that can solve most puzzles will win the hackathon.** And don't worry, there won't be any naming and shaming of the worst-performing teams!
+In this hackathon, each team will create a computer program that can solve non-verbal IQ test items similar to [Raven's Progressive Matrices](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices). At the start of the event, we will provide you with 10 training items (puzzles and the correct answer in PNG format). At the end, we will test each team's solution on 20 unseen test items. **The team that can solve most puzzles will win the hackathon.** And don't worry, there won't be any naming and shaming of the worst-performing teams!
 
 ## Approximate schedule
 1. 17:00–17:30 Welcome and introduction of teams

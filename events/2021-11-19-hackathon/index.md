@@ -45,7 +45,7 @@ You will create a computer program that can solve [Raven's Progressive Matrices]
 ![Example of a Raven's Progressive Matrices item](https://www.iqmindware.com/wp-content/uploads/2012/10/RAPM1.jpg "Example of a Raven's Progressive Matrices item")
 
 ### What language should I use?
-You can use your language of choice. However, we encourage you to make sure beforehand you have all necessary libraries to read PNG files (e.g. Pillow for Python, `javax.imageio` for Java, the `png` package for R, OpenCV with appropriate bindings).
+You can use your language of choice. However, we encourage you to make sure beforehand you have all necessary libraries to read PNG files (e.g. Pillow for Python, `png++` and `libpng` for C++, `javax.imageio` for Java, the `png` package for R, OpenCV with appropriate bindings).
 
 
 ## Organizers

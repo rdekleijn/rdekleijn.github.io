@@ -17,9 +17,10 @@ In this hackathon, each team will create a computer program that can solve non-v
 ## Approximate schedule
 1. 17:00–17:30 Welcome and introduction of teams
 2. 17:30–19:00 Release of training items and programming
-3. 19:00–19:45 Pizza and beer dinner
+3. 19:00–19:45 Pizza and drinks
 4. 19:45–23:00 Programming
 5. 23:00–00:00 Testing of solutions with test items and high-fiving the winning team
+6. 23:30–00:00 Quickly eating and drinking all leftovers
 
 Food in the form of pizza (also vegetarian) and snacks will be provided. Drinks in the form of beer and soft drinks (also water) will be provided. 
 

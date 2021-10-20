@@ -12,22 +12,21 @@ classes: wide
 ## What is this about?
 Fundamentally, this hackathon is about human and artificial intelligence. Human intelligence is commonly measured by means of an IQ test, quantifying the intellectual capabilities of a person in different domains such as analogical reasoning, vocabulary, processing speed, and general knowledge. Let's see how far we get in getting a computer to show some of the same capabilities.
 
-In this hackathon, each team will create a computer program that can solve non-verbal IQ test items similar to [Raven's Progressive Matrices](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices). At the start of the event, we will provide you with 10 training items (puzzles and the correct answer in PNG format). At the end, we will test each team's solution on 20 unseen test items. **The team that can solve most puzzles will win the hackathon.** And don't worry, there won't be any naming and shaming of the worst-performing teams!
+In this hackathon, each team will create a computer program that can solve non-verbal IQ test items similar to [Raven's Progressive Matrices](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices). At the start of the event, we will provide you with 10 training items (puzzles and the correct answer in PNG format). At the end, we will test each team's solution on 20 unseen test items. **The team that can solve most puzzles will win the hackathon.** And don't worry, there won't be any naming and shaming of the worst-performing teams.
 
 ## Approximate schedule
 1. 17:00–17:30 Welcome and introduction of teams
 2. 17:30–19:00 Release of training items and programming
 3. 19:00–19:45 Pizza and drinks
 4. 19:45–23:00 Programming
-5. 23:00–23:45 Testing of solutions with test items and high-fiving the winning team
-6. 23:45–00:00 Quickly eating and drinking all leftovers
+5. 23:00–00:00 Testing of solutions with test items and high-fiving the winning team
 
 Food in the form of pizza (also vegetarian) and snacks will be provided. Drinks in the form of beer and soft drinks (also water) will be provided. 
 
 > Note that the event ends at midnight. It may be a good idea to check your return trip home and/or get an OV-fiets.
 
 ## Who are eligible to participate?
-Participation is open to teams from 1 to 4 individuals from the Leiden academic community, from BA/BSc students to professors. It's no problem if some team members are not affiliated with Leiden University, so feel free to register with your housemates or friends. We encourage mixed-seniority teams and interdisciplinary teams to apply.
+Participation is open to teams consisting of 1 to 4 individuals from the Leiden academic community, from BA/BSc students to professors. It's no problem if some team members are not affiliated with Leiden University, so feel free to register with your housemates or friends. We encourage mixed-seniority teams and interdisciplinary teams to apply.
 
 ## What does it cost to register?
 Participation is free for all participants.

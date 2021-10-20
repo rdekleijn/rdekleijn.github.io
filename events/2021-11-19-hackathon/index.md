@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-- Location: [Snellius xxx](https://goo.gl/maps/2R1QxpEoGojjvriu7), Faculty of Science, Leiden University
+- Location: [Snellius 407-409](https://goo.gl/maps/2R1QxpEoGojjvriu7), Faculty of Science, Leiden University
 - Date and time: Friday, 19 November 2021 from 17:00 to 00:00
 - Register [here](https://forms.gle/NgPUYJFZ7BsdUaEW9).
 

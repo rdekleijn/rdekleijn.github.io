@@ -31,6 +31,9 @@ Participation is open to teams consisting of 1 to 4 individuals from the Leiden 
 ## What does it cost to register?
 Participation is free for all participants.
 
+## Will I be able to participate online?
+No, this hackathon will be held on location.
+
 ## Will a computer be provided?
 No, you are expected to bring your own device. Power outlets and access to eduroam and Leiden University WiFi are available.
 

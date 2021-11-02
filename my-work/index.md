@@ -11,7 +11,7 @@ classes: wide
 - Goekoop, R., & de Kleijn, R. (coming soon!). Permutation entropy as a universal disorder criterion: how disorders at different scale levels are manifestations of the same underlying principle.
 - Vegt, P. S., & de Kleijn, R. (coming soon!). Cognitive effects of the anthropomorphization of artificial agents in human–agent interactions.
 - Sen, D., de Kleijn, R., & Kachergis, G. (coming soon!). Behavioral optimization in a robotic serial reaching task using predictive information.
-- de Kleijn, R., Sen, D., & Kachergis, G. (coming soon!). Deep reinforcement learning of sequential action results in human-like optimization in a robotic arm controller.
+- de Kleijn, R., Sen, D., & Kachergis, G. (coming soon!). A critical period for robust curriculum-based deep reinforcement learning of sequential action in a robot arm.
 - de Kleijn, R. (coming soon!). Neural network architectures for robot controllers in a dynamic foraging task.
 - van Dooren, R., de Kleijn, R., Hommel, B., & Sjoerds, Z. (2021). The exploitation–exploration trade-off in a foraging task is affected by mood-related arousal and valence. *Cognitive, Affective, and Behavioral Neuroscience.* [doi: [10.3758/s13415-021-00917-6](http://dx.doi.org/10.3758/s13415-021-00917-6)] [[PDF](../assets/pdf/2021_VanDooren_CABN.pdf)]
 - Goekoop, R., & de Kleijn, R. (2021). How higher goals are constructed and collapse under stress: a hierarchical Bayesian control systems perspective. *Neuroscience & Biobehavioral Reviews, 123,* 257–285. [doi: [10.1016/j.neubiorev.2020.12.021](http://dx.doi.org/10.1016/j.neubiorev.2020.12.021)] [[PDF](../assets/pdf/2021_Goekoop_DeKleijn_NBR.pdf)]

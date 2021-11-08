@@ -7,7 +7,7 @@ classes: wide
 
 ## Papers
 
-- Kouwenhoven, T., Verhoef, T., de Kleijn, R., & Raaijmakers. (coming soon!). Emerging grounded communicative systems between human and machine, inspired by human language evolution.
+- Kouwenhoven, T., Verhoef, T., de Kleijn, R., & Raaijmakers, S. (coming soon!). Emerging grounded communicative systems between human and machine, inspired by human language evolution.
 - Goekoop, R., & de Kleijn, R. (coming soon!). Permutation entropy as a universal disorder criterion: how disorders at different scale levels are manifestations of the same underlying principle.
 - Vegt, P. S., & de Kleijn, R. (coming soon!). Cognitive effects of the anthropomorphization of artificial agents in human–agent interactions.
 - Sen, D., de Kleijn, R., & Kachergis, G. (coming soon!). Behavioral optimization in a robotic serial reaching task using predictive information.

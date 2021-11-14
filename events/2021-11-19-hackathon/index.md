@@ -6,8 +6,8 @@ classes: wide
 ---
 
 - Location: [Snellius 407-409](https://goo.gl/maps/2R1QxpEoGojjvriu7), Faculty of Science, Leiden University
-- Date and time: Friday, 19 November 2021 from 17:00 to 00:00
-- Register [here](https://forms.gle/NgPUYJFZ7BsdUaEW9) before Tuesday, 16 November 2021.
+- ~~Date and time: Friday, 19 November 2021 from 17:00 to 00:00.~~
+- ~~Register [here](https://forms.gle/NgPUYJFZ7BsdUaEW9) before Tuesday, 16 November 2021.~~
 
 > Due to increasingly stringent COVID-19 regulations this event has been **postponed until further notice.** We hope to be able to organize this event in early 2022.
 

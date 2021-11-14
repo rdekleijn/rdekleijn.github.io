@@ -9,7 +9,7 @@ classes: wide
 - Date and time: Friday, 19 November 2021 from 17:00 to 00:00
 - Register [here](https://forms.gle/NgPUYJFZ7BsdUaEW9) before Tuesday, 16 November 2021.
 
-> Due to increasingly stringent COVID-19 regulations this event has been *postponed until further notice.* We hope to be able to organize this event in early 2022.
+> Due to increasingly stringent COVID-19 regulations this event has been **postponed until further notice.** We hope to be able to organize this event in early 2022.
 
 ## What is this about?
 Fundamentally, this hackathon is about human and artificial intelligence. Human intelligence is commonly measured by means of an IQ test, quantifying the intellectual capabilities of a person in different domains such as analogical reasoning, vocabulary, processing speed, and general knowledge. Let's see how far we get in getting a computer to show some of the same capabilities.

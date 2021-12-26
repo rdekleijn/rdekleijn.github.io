@@ -14,16 +14,19 @@ Simulations and analyses were performed using Richard D. Morey's [BayesFactor](h
 ## Minimum sample sizes needed
 The analyses below show the minimum number of subjects needed per condition as a function of the true effect size in the population. This is based on Bayes factor threshold of 3, and a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3).
 
-| Effect size | Cohen's *d* | Required sample size |
-| ----------- | ----------- | -------------------- |
-| Very small  | 0.01        | >5000                |
-| Small       | 0.20        | 664                  |
-|             | 0.30        | 276                  |
-|             | 0.40        | 149                  |
-| Medium      | 0.50        | 90                   |
+| Effect size[^4] | Cohen's *d* | Required sample size |
+| --------------- | ----------- | -------------------- |
+| Very small      | 0.01        | >5000                |
+| Small           | 0.20        | 664                  |
+|                 | 0.30        | 276                  |
+|                 | 0.40        | 149                  |
+| Medium          | 0.50        | 90                   |
 
 
 
 [^1]: [https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)
 [^2]: [http://powerandsamplesize.com](http://powerandsamplesize.com)
 [^3]: Note that the usefulness of Bayes factors is subject of discussion. Some authors argue that precise description of posterior distributions is a better idea.
+[^4]: Taken from Sawilowsky, S. (2009). New effect size rules of thumb. *Journal of Modern Applied Statistical Methods, 8,* 467–474. doi:10.22237/jmasm/1257035100.
+
+

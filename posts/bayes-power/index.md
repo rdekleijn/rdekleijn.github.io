@@ -14,13 +14,13 @@ Simulations and analyses were performed using Richard D. Morey's [BayesFactor](h
 ## Minimum sample sizes needed
 
 ### Bayesian t-test
-The analyses below show the minimum number of subjects needed per condition as a function of the true effect size in the population. This is based on a Bayes factor threshold of 3, a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3), a noninformative Jeffreys prior placed on the variance of the normal population, and a Cauchy prior placed on the standardized effect size with scale sqrt(2)/2. \\( y_0 \\)
+The analyses below show the minimum number of subjects needed per condition as a function of the true effect size in the population. This is based on a Bayes factor threshold of 3, a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3), a noninformative Jeffreys prior placed on the variance of the normal population, and a Cauchy prior placed on the standardized effect size with scale \\(\frac{\sqrt(2)}{2}\\)
 
 | Effect size[^4] | Cohen's *d* | Required sample size |
 | --------------- | ----------- | -------------------- |
 | Very small      | 0.01        | >5000                |
-| Small           | 0.20        | 664                  |
-|                 | 0.30        | 276                  |
+| Small           | 0.20        | 667                  |
+|                 | 0.30        | 275                  |
 |                 | 0.40        | 149                  |
 | Medium          | 0.50        | 90                   |
 

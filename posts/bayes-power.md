@@ -6,7 +6,7 @@ classes: wide
 ---
 
 ## What is this about?
-For frequentist hypothesis testing, several power calculators (e.g. G\*Power[^1], powerandsamplesize.com['^2']) are available to determine the minimum sample size needed to detect an effect with a given probability (statistical power).
+For frequentist hypothesis testing, several power calculators (e.g. G\*Power[^1], powerandsamplesize.com[^2]) are available to determine the minimum sample size needed to detect an effect with a given probability (statistical power).
 
 
 

@@ -6,4 +6,9 @@ classes: wide
 ---
 
 ## What is this about?
-For frequentist statistical analysis, several power calculators (e.g. GPower) are available to determine the minimum sample size needed to detect an effect with a given probability (statistical power).
+For frequentist hypothesis testing, several power calculators (e.g. GPower [^1]) are available to determine the minimum sample size needed to detect an effect with a given probability (statistical power).
+
+
+
+## Links and references
+[^1]: This is the footnote.

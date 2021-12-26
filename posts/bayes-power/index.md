@@ -9,6 +9,9 @@ classes: wide
 For frequentist hypothesis testing, several power calculators (e.g. G\*Power[^1], powerandsamplesize.com[^2]) are available to determine the minimum sample size needed to detect an effect with a given probability (statistical power). No such calculators are available (to my knowledge) for the Bayesian versions of t-tests, ANOVA, and linear correlations returning a Bayes factor[^3]. Calculating statistical power for these techniques for given sample sizes is done using simulation, and to save everyone a lot of time I will summarize my findings below.
 
 
+## Minimum sample sizes needed
+The analyses below show the minimum number of subjects needed per condition as a function of the true effect size in the population. This is based on Bayes factor threshold of 3, and a statistical power of 80% (i.e. you have an 80% probability of finding a BF~10~ > 3).
+
 
 
 

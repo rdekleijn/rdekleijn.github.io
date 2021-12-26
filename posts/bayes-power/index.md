@@ -13,7 +13,7 @@ Simulations and analyses were performed using Richard D. Morey's [BayesFactor](h
 
 ## Minimum sample sizes needed
 
-# Bayesian t-test
+### Bayesian t-test
 The analyses below show the minimum number of subjects needed per condition as a function of the true effect size in the population. This is based on a Bayes factor threshold of 3, and a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3).
 
 | Effect size[^4] | Cohen's *d* | Required sample size |

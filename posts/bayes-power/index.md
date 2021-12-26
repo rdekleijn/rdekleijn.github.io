@@ -17,7 +17,10 @@ The analyses below show the minimum number of subjects needed per condition as a
 | Effect size | Cohen's *d* | Required sample size |
 | ----------- | ----------- | -------------------- |
 | Very small  | 0.01        | >5000                |
-| Small       | 0.20        | 664.                 |
+| Small       | 0.20        | 664                  |
+|             | 0.30        | 276                  |
+|             | 0.40        | 149                  |
+| Medium      | 0.50        | 90                   |
 
 
 

@@ -34,7 +34,7 @@ The analyses below show the minimum number of subjects needed *per condition* as
 | Huge                 | 2.00        | 7                    | 4                       |
 
 ### Bayesian test for correlation
-The analyses below show the minimum number of observations (data points) needed as a function of the true correlation \\(\rho\\) in the population. This is based on a Bayes factor threshold of 3, a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3), noninformative priors assumed for the population means and variances of the two populations, and a  \\(beta(3,3)\\) prior distribution is assumed for \\(\rho\\). 
+The analyses below show the minimum number of observations (data points) needed as a function of the true correlation \\(\rho\\) in the population. This is based on a Bayes factor threshold of 3, a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3), noninformative priors assumed for the population means and variances of the two populations, and a  \\(Beta(3,3)\\) prior distribution is assumed for \\(\rho\\). 
 
 | True effect size[^4] | Cohen's *d* | Bayesian sample size | Frequentist sample size |
 | -------------------- | ----------- | -------------------- | ----------------------- |

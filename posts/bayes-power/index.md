@@ -30,7 +30,7 @@ The analyses below show the minimum number of subjects needed *per condition* as
 |                 | 0.90        | 27                   |
 |                 | 1.00        | 22                   |
 | Very large      | 1.20        | 16                   |
-| Huge            | 2.00        |                      |
+| Huge            | 2.00        | 7                    |
 
 
 

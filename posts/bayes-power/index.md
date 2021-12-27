@@ -18,6 +18,7 @@ The analyses below show the minimum number of subjects needed *per condition* as
 
 | Effect size[^4] | Cohen's *d* | Required sample size |
 | --------------- | ----------- | -------------------- |
+|                 | 0.00 (null) | 102[^6]              |
 | Very small      | 0.01        | ~425,000             |
 |                 | 0.10        | 3,050                |
 | Small           | 0.20        | 667                  |
@@ -39,4 +40,5 @@ The analyses below show the minimum number of subjects needed *per condition* as
 [^3]: Note that the usefulness of Bayes factors is subject of discussion. Some authors (e.g. Kruschke) argue that precise description of posterior distributions is a better idea.
 [^4]: Labels taken from Sawilowsky, S. (2009). New effect size rules of thumb. *Journal of Modern Applied Statistical Methods, 8,* 467–474. doi:10.22237/jmasm/1257035100
 [^5]: See Rouder, J.N., Speckman, P.L., Sun, D., et al. (2009). Bayesian t tests for accepting and rejecting the null hypothesis. *Psychonomic Bulletin & Review, 16,* 225–237. doi:10.3758/PBR.16.2.225
+[^6]: This concerns the sample size needed for BF<sub>01</sub> > 3 in the case where the true effect size is zero.
 

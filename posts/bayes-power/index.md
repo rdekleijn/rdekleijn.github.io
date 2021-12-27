@@ -14,24 +14,24 @@ Simulations and analyses were performed using Richard D. Morey's [BayesFactor](h
 ## Minimum sample sizes needed
 
 ### Bayesian *t*-test
-The analyses below show the minimum number of subjects needed *per condition* as a function of the true effect size in the population. This is based on a Bayes factor threshold of 3, a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3), a noninformative Jeffreys prior placed on the variance of the normal population, and a Cauchy prior (JZS) placed on the standardized effect size with scale \\(\sqrt{2}/2\\). Note that these sample sizes are somewhat more conservative than a standard (frequentist) *t*-test.[^5] 
+The analyses below show the minimum number of subjects needed *per condition* as a function of the true effect size in the population. This is based on a Bayes factor threshold of 3, a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3), a noninformative Jeffreys prior placed on the variance of the normal population, and a Cauchy prior (JZS) placed on the standardized effect size with scale \\(\sqrt{2}/2\\). Note that these sample sizes are somewhat more conservative than a standard (frequentist) *t*-test.[^5] In the rightmost column you can find the required sample size for a standard (frequentist) *t*-test to reject the null-hypothesis using a desired significance level of .05.
 
-| Effect size[^4] | Cohen's *d* | Required sample size |
-| --------------- | ----------- | -------------------- |
-|                 | 0.00 (null) | 102[^6]              |
-| Very small      | 0.01        | ~425,000             |
-|                 | 0.10        | 3,050                |
-| Small           | 0.20        | 667                  |
-|                 | 0.30        | 275                  |
-|                 | 0.40        | 147                  |
-| Medium          | 0.50        | 91                   |
-|                 | 0.60        | 62                   |
-|                 | 0.70        | 45                   |
-| Large           | 0.80        | 34                   |
-|                 | 0.90        | 27                   |
-|                 | 1.00        | 22                   |
-| Very large      | 1.20        | 16                   |
-| Huge            | 2.00        | 7                    |
+| True effect size[^4] | Cohen's *d* | Bayesian sample size | Frequentist sample size |
+| -------------------- | ----------- | -------------------- | ----------------------- |
+|                      | 0.00 (null) | 102[^6]              | N/A                     |
+| Very small           | 0.01        | ~425,000             | 156,656                 |
+|                      | 0.10        | 3,050                | 1,567                   |
+| Small                | 0.20        | 667                  | 392                     |
+|                      | 0.30        | 275                  | 175                     |
+|                      | 0.40        | 147                  | 98                      |
+| Medium               | 0.50        | 91                   | 63                      |
+|                      | 0.60        | 62                   | 44                      |
+|                      | 0.70        | 45                   | 32                      |
+| Large                | 0.80        | 34                   | 25                      |
+|                      | 0.90        | 27                   | 20                      |
+|                      | 1.00        | 22                   | 16                      |
+| Very large           | 1.20        | 16                   | 11                      |
+| Huge                 | 2.00        | 7                    | 4                       |
 
 ### Test of single proportions
 Bla.

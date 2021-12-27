@@ -33,6 +33,10 @@ The analyses below show the minimum number of subjects needed *per condition* as
 | Very large      | 1.20        | 16                   |
 | Huge            | 2.00        | 7                    |
 
+### Test of single proportions
+Bla.
+
+
 
 
 [^1]: [https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)

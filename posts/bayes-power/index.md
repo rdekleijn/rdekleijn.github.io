@@ -33,8 +33,8 @@ The analyses below show the minimum number of subjects needed *per condition* as
 | Very large           | 1.20        | 16                   | 11                      |
 | Huge                 | 2.00        | 7                    | 4                       |
 
-### Test of single proportions
-Bla.
+### Bayesian test for correlation
+The analyses below show the minimum number of observations (data points) needed as a function of the true correlation \\(\rho\\) in the population. This is based on a Bayes factor threshold of 3, a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3), noninformative priors assumed for the population means and variances of the two populations, and a  \\(beta(3,3)\\) prior distribution is assumed for \\(\rho\\). 
 
 
 

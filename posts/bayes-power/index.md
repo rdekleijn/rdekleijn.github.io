@@ -14,12 +14,12 @@ Simulations and analyses were performed using Richard D. Morey's [BayesFactor](h
 ## Minimum sample sizes needed
 
 ### Bayesian *t*-test
-The analyses below show the minimum number of subjects needed *per condition* as a function of the true effect size in the population. This is based on a Bayes factor threshold of 3, a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3), a noninformative Jeffreys prior placed on the variance of the normal population, and a Cauchy prior (JZS) placed on the standardized effect size with scale \\(\sqrt{2}/2\\)
+The analyses below show the minimum number of subjects needed *per condition* as a function of the true effect size in the population. This is based on a Bayes factor threshold of 3, a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3), a noninformative Jeffreys prior placed on the variance of the normal population, and a Cauchy prior (JZS) placed on the standardized effect size with scale \\(\sqrt{2}/2\\). Note that these sample sizes are somewhat more conservative than a standard (frequentist) *t*-test.[^5] 
 
 | Effect size[^4] | Cohen's *d* | Required sample size |
 | --------------- | ----------- | -------------------- |
-| Very small      | 0.01        | >5000                |
-|                 | 0.10        | 3050                 |
+| Very small      | 0.01        | ~425,000             |
+|                 | 0.10        | 3,050                |
 | Small           | 0.20        | 667                  |
 |                 | 0.30        | 275                  |
 |                 | 0.40        | 147                  |
@@ -29,7 +29,7 @@ The analyses below show the minimum number of subjects needed *per condition* as
 | Large           | 0.80        | 34                   |
 |                 | 0.90        | 27                   |
 |                 | 1.00        | 22                   |
-| Very large      | 1.20        |                      |
+| Very large      | 1.20        | 16                   |
 | Huge            | 2.00        |                      |
 
 
@@ -37,6 +37,6 @@ The analyses below show the minimum number of subjects needed *per condition* as
 [^1]: [https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)
 [^2]: [http://powerandsamplesize.com](http://powerandsamplesize.com)
 [^3]: Note that the usefulness of Bayes factors is subject of discussion. Some authors (e.g. Kruschke) argue that precise description of posterior distributions is a better idea.
-[^4]: Labels taken from Sawilowsky, S. (2009). New effect size rules of thumb. *Journal of Modern Applied Statistical Methods, 8,* 467–474. doi:10.22237/jmasm/1257035100.
-
+[^4]: Labels taken from Sawilowsky, S. (2009). New effect size rules of thumb. *Journal of Modern Applied Statistical Methods, 8,* 467–474. doi:10.22237/jmasm/1257035100
+[^5]: See Rouder, J.N., Speckman, P.L., Sun, D., et al. (2009). Bayesian t tests for accepting and rejecting the null hypothesis. *Psychonomic Bulletin & Review, 16,* 225–237. doi:10.3758/PBR.16.2.225
 

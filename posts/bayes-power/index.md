@@ -11,7 +11,7 @@ For frequentist hypothesis testing, several power calculators (e.g. G\*Power[^1]
 ## Minimum sample sizes needed
 
 ### Bayesian *t*-test
-The analyses below show the minimum number of subjects needed *per condition* as a function of the true effect size in the population. This is based on a Bayes factor threshold of 3, a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3), a noninformative Jeffreys prior placed on the variance of the normal population, and a Cauchy prior (JZS) placed on the standardized effect size with scale \\(\sqrt{2}/2\\). Note that these sample sizes are somewhat more conservative than a standard (frequentist) *t*-test.[^5] In the rightmost column you can find the required sample size for a standard (frequentist) *t*-test to reject the null-hypothesis using a desired significance level of .05.
+The analyses below show the minimum number of subjects needed *per condition* as a function of the true effect size in the population. This is based on a Bayes factor threshold of 3, a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3), a noninformative Jeffreys prior placed on the variance of the normal population, and a Cauchy prior (JZS) placed on the standardized effect size with scale \\(\sqrt{2}/2\\). Note that these sample sizes are somewhat more conservative than a standard (frequentist) *t*-test.[^5] In the rightmost column you can find the required sample size for a standard (frequentist) *t*-test to reject the null hypothesis using a desired significance level of .05.
 
 | True effect size[^4] | Cohen's *d* | Bayesian sample size | Frequentist sample size |
 | -------------------- | ----------- | -------------------- | ----------------------- |

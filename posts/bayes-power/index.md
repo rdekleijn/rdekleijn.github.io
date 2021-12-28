@@ -58,4 +58,4 @@ Simulations and analyses were performed using Richard D. Morey's [BayesFactor](h
 [^6]: This concerns the sample size needed for BF<sub>01</sub> > 3 in the case where the true effect size is zero.
 [^7]: Labels taken from Cohen, J. (1988). *Statistical power analysis for the behavioral sciences (2nd ed.)*
 [^8]: These are standard, noninformative priors. If you have a reasonable alternative prior, or test against a null interval instead of a point null you could improve power.
-[^9]: Some would go so far as to argue that statistical power in the sense used in frequentist statistics is meaningless.
+[^9]: Some would go so far as to argue that statistical power in the sense used in frequentist statistics is meaningless in a Bayesian framework.

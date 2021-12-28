@@ -30,13 +30,21 @@ The analyses below show the minimum number of subjects needed *per condition* as
 | Very large           | 1.20        | 16                   | 11                      |
 | Huge                 | 2.00        | 7                    | 4                       |
 
-### Bayesian test for correlation
-The analyses below show the minimum number of observations (data points) needed as a function of the true correlation \\(\rho\\) in the population. This is based on a Bayes factor threshold of 3, a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3), noninformative priors assumed for the population means and variances of the two populations, and a  \\(Beta(3,3)\\) prior distribution \\(\operatorname{Beta}(3,3)\\) is assumed for \\(\rho\\). 
+### Bayesian test for linear correlation
+The analyses below show the minimum number of observations (data points) needed as a function of the true correlation \\(\rho\\) in the population. This is based on a Bayes factor threshold of 3, a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3), noninformative priors assumed for the population means and variances of the two populations, and a \\(\operatorname{Beta}(3,3)\\) prior distribution is assumed for \\(\rho\\). 
 
-| True effect size[^4] | Cohen's *d* | Bayesian sample size | Frequentist sample size |
+| True effect size[^7] | \\(\rho\\)  | Bayesian sample size | Frequentist sample size |
 | -------------------- | ----------- | -------------------- | ----------------------- |
-|                      | 0.00 (null) | 102[^6]              | N/A                     |
-| Very small           | 0.01        | ~425,000             | 156,656                 |
+|                      | 0.00 (null) | 245[^6]              | N/A                     |
+| Small                | 0.10        | 1300                 | 782                     |
+|                      | 0.20        | 273                  | 193                     |
+| Medium               | 0.30        | 109                  | 84                      |
+|                      | 0.40        | 54                   | 46                      |
+| Large                | 0.50        | 32                   | 29                      |
+|                      | 0.60        | 21                   | 19                      |
+|                      | 0.70        | 15                   | 13                      |
+|                      | 0.80        | 11                   | 9                       |
+|                      | 0.90        | 8                    | 6                       |
 
 ## Software used
 Simulations and analyses were performed using Richard D. Morey's [BayesFactor](https://richarddmorey.github.io/BayesFactor/) package and the cluster computing [snowfall](https://cran.r-project.org/web/packages/snowfall/index.html) package for R.
@@ -48,4 +56,5 @@ Simulations and analyses were performed using Richard D. Morey's [BayesFactor](h
 [^4]: Labels taken from Sawilowsky, S. (2009). New effect size rules of thumb. *Journal of Modern Applied Statistical Methods, 8,* 467–474. doi:10.22237/jmasm/1257035100
 [^5]: See Rouder, J.N., Speckman, P.L., Sun, D., et al. (2009). Bayesian t tests for accepting and rejecting the null hypothesis. *Psychonomic Bulletin & Review, 16,* 225–237. doi:10.3758/PBR.16.2.225
 [^6]: This concerns the sample size needed for BF<sub>01</sub> > 3 in the case where the true effect size is zero.
+[^7]: Labels taken from Cohen, J. (1988). *Statistical power analysis for the behavioral sciences (2nd ed.)*
 

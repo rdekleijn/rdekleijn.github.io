@@ -8,9 +8,6 @@ classes: wide
 ## What is this about?
 For frequentist hypothesis testing, several power calculators (e.g. G\*Power[^1], powerandsamplesize.com[^2]) are available to determine the minimum sample size needed to detect an effect with a given probability (statistical power). No such calculators are available (to my knowledge) for the Bayesian versions of t-tests, ANOVA, and linear correlations returning a Bayes factor.[^3] Calculating statistical power for these techniques for given sample sizes can be done using simulation, and to save everyone a lot of time I will summarize my findings below.
 
-Simulations and analyses were performed using Richard D. Morey's [BayesFactor](https://richarddmorey.github.io/BayesFactor/) package and the cluster computing [snowfall](https://cran.r-project.org/web/packages/snowfall/index.html) package for R.
-
-
 ## Minimum sample sizes needed
 
 ### Bayesian *t*-test
@@ -41,6 +38,8 @@ The analyses below show the minimum number of observations (data points) needed 
 |                      | 0.00 (null) | 102[^6]              | N/A                     |
 | Very small           | 0.01        | ~425,000             | 156,656                 |
 
+## Software used
+Simulations and analyses were performed using Richard D. Morey's [BayesFactor](https://richarddmorey.github.io/BayesFactor/) package and the cluster computing [snowfall](https://cran.r-project.org/web/packages/snowfall/index.html) package for R.
 
 
 [^1]: [https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)

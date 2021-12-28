@@ -36,7 +36,7 @@ The analyses below show the minimum number of paired observations (data points) 
 | True effect size[^7] | \\(\rho\\)  | Bayesian sample size | Frequentist sample size |
 | -------------------- | ----------- | -------------------- | ----------------------- |
 |                      | 0.00 (null) | 245[^6]              | N/A                     |
-| Small                | 0.10        | 1300                 | 782                     |
+| Small                | 0.10        | 1,300                | 782                     |
 |                      | 0.20        | 273                  | 193                     |
 | Medium               | 0.30        | 109                  | 84                      |
 |                      | 0.40        | 54                   | 46                      |

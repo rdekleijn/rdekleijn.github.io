@@ -11,7 +11,7 @@ For frequentist hypothesis testing, several power calculators (e.g. G\*Power[^1]
 ## Minimum sample sizes needed
 
 ### Bayesian *t*-test
-The analyses below show the minimum number of subjects needed *per condition* as a function of the true effect size in the population. This is based on a Bayes factor threshold of 3, a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3), a noninformative Jeffreys prior placed on the variance of the normal population, and a Cauchy prior (JZS) placed on the standardized effect size with scale \\(\sqrt{2}/2\\). Note that these sample sizes are somewhat more conservative than a standard (frequentist) *t*-test.[^5] In the rightmost column you can find the required sample size for a standard (frequentist) *t*-test to reject the null hypothesis using a desired significance level of .05.
+The analyses below show the minimum number of subjects needed *per condition* as a function of the true effect size in the population. This is based on a Bayes factor threshold of 3, a statistical power of 80% (i.e. you have an 80% probability of finding a BF<sub>10</sub> > 3), a noninformative Jeffreys prior placed on the variance of the normal population, and a Cauchy prior (JZS) placed on the standardized effect size with scale \\(\sqrt{2}/2\\).[^8] Note that these sample sizes are somewhat more conservative than a standard (frequentist) *t*-test.[^5] In the rightmost column you can find the required sample size for a standard (frequentist) *t*-test to reject the null hypothesis using a desired significance level of .05.
 
 | True effect size[^4] | Cohen's *d* | Bayesian sample size | Frequentist sample size |
 | -------------------- | ----------- | -------------------- | ----------------------- |
@@ -57,4 +57,5 @@ Simulations and analyses were performed using Richard D. Morey's [BayesFactor](h
 [^5]: See Rouder, J.N., Speckman, P.L., Sun, D., et al. (2009). Bayesian t tests for accepting and rejecting the null hypothesis. *Psychonomic Bulletin & Review, 16,* 225–237. doi:10.3758/PBR.16.2.225
 [^6]: This concerns the sample size needed for BF<sub>01</sub> > 3 in the case where the true effect size is zero.
 [^7]: Labels taken from Cohen, J. (1988). *Statistical power analysis for the behavioral sciences (2nd ed.)*
+[^8]: These are standard, noninformative priors. If you have a reasonable alternative prior, or test against a null interval instead of a point null you could improve power.
 

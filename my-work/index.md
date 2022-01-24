@@ -7,8 +7,9 @@ classes: wide
 
 ## Papers
 
-- Kouwenhoven, T., Verhoef, T., de Kleijn, R., & Raaijmakers, S. (coming soon!). Emerging grounded communicative systems between human and machine, inspired by human language evolution.
+- Kouwenhoven, T., Verhoef, T., de Kleijn, R., & Raaijmakers, S. (coming soon!). Signal emergence and personal need for structure.
 - Vegt, P. S., & de Kleijn, R. (coming soon!). Cognitive effects of the anthropomorphization of artificial agents in human–robot interactions.
+- Kouwenhoven, T., Verhoef, T., de Kleijn, R., & Raaijmakers, S. (coming soon!). Emerging grounded communicative systems between human and machine, inspired by human language evolution.
 - Sen, D., de Kleijn, R., & Kachergis, G. (coming soon!). Behavioral optimization in a robotic serial reaching task using predictive information.
 - de Kleijn, R. (coming soon!). Neural network architectures for robot controllers in a dynamic foraging task.
 - de Kleijn, R., Sen, D., & Kachergis, G. (2022). A critical period for robust curriculum-based deep reinforcement learning of sequential action in a robot arm. *Topics in Cognitive Science.* [doi: [10.1111/tops.12595](http://dx.doi.org/10.1111/tops.12595)] [[PDF](../assets/pdf/2022_DeKleijn_TopiCS.pdf)]

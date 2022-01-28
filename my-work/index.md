@@ -38,7 +38,7 @@ classes: wide
 
 ## Talks and poster presentations
 
-- de Kleijn, R. Evolutionary algorithms in computational art. *ASIC 2021,* San Martino di Castrozza, Italy. *July 14, 2021.*
+- de Kleijn, R. Evolutionary algorithms in computational art. *20th Annual Summer Interdisciplinary Conference (ASIC),* San Martino di Castrozza, Italy. *July 14, 2021.*
 - de Kleijn, R. & Hommel, B. Using deep neural networks to predict shooting incidents. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 19, 2019.*
 - de Kleijn, R., Kachergis, G., & Hommel, B. Optimized sequential motor control in a virtual robot arm. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 14, 2017. (poster)*
 - Mekern, V., de Kleijn, R., & Hommel, B. Level of striatal dopamine does not predict visual and cognitive search behavior. *International Conference for Cognitive Neuroscience,* Amsterdam, Netherlands. *August 8, 2017. (poster)*
@@ -57,7 +57,7 @@ classes: wide
 - Kachergis, G., Berends, F., & de Kleijn, R. Reward schedule effects on sequential action learning: A trajectory serial response task. *26th APS Annual Convention,* San Francisco, CA. *May 24, 2014. (poster)*
 - de Kleijn, R., Kachergis, G., & Hommel, B. Neurorobotics in cognitive science. *LIBC Member Meeting,* Leiden, Netherlands. *May 22, 2014. (poster)*
 - Berends, F., Kachergis, G., de Kleijn, R., & Hommel, B. A novel trajectory serial reaction time paradigm. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 20, 2013.*
-- Kachergis, G., de Kleijn, R., & Hommel, B. A spiking neural model for sequential action control. *14th Annual Summer Interdisciplinary Conference,* Cortina, Italy. *July 26, 2013.*
+- Kachergis, G., de Kleijn, R., & Hommel, B. A spiking neural model for sequential action control. *12th Annual Summer Interdisciplinary Conference (ASIC),* Cortina, Italy. *July 26, 2013.*
 
 ## Book chapters
 

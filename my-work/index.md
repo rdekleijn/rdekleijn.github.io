@@ -7,7 +7,7 @@ classes: wide
 
 ## Papers
 
-- Kouwenhoven, T., Verhoef, T., de Kleijn, R., & Raaijmakers, S. (coming soon!). Signal emergence and personal need for structure.
+- Kouwenhoven, T., de Kleijn, R., Raaijmakers, S., & Verhoef, T. (coming soon!). Signal emergence and personal need for structure.
 - Vegt, P. S., & de Kleijn, R. (coming soon!). Cognitive effects of the anthropomorphization of artificial agents in human–robot interactions.
 - Kouwenhoven, T., Verhoef, T., de Kleijn, R., & Raaijmakers, S. (coming soon!). Emerging grounded communicative systems between human and machine, inspired by human language evolution.
 - Sen, D., de Kleijn, R., & Kachergis, G. (coming soon!). Behavioral optimization in a robotic serial reaching task using predictive information.

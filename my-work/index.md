@@ -38,6 +38,7 @@ classes: wide
 
 ## Talks and poster presentations
 
+- Heijnen, S., de Kleijn, R., & Sleutels, J. What is important in a computational model? *NVP Winter Conference,* Egmond aan Zee, Netherlands. *April 29, 2022.*
 - de Kleijn, R. Evolutionary algorithms in computational art. *20th Annual Summer Interdisciplinary Conference (ASIC),* San Martino di Castrozza, Italy. *July 14, 2021.*
 - de Kleijn, R. & Hommel, B. Using deep neural networks to predict shooting incidents. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 19, 2019.*
 - de Kleijn, R., Kachergis, G., & Hommel, B. Optimized sequential motor control in a virtual robot arm. *NVP Winter Conference,* Egmond aan Zee, Netherlands. *December 14, 2017. (poster)*

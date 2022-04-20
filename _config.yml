@@ -103,7 +103,8 @@ analytics:
 # Site Author
 author:
   name             : "Roy de Kleijn"
-  avatar           : "/assets/jpg/rdklein_pfp.png"
+  #avatar           : "/assets/jpg/rdklein_pfp.png"
+  avatar           : "/assets/jpg/RdK.jpg"
   bio              : "Assistant professor @ Leiden University"
   location         : "Leiden, Netherlands"
   email            : "kleijnrde@fsw.leidenuniv.nl"

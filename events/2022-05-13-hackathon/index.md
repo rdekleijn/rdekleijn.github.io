@@ -7,7 +7,7 @@ classes: wide
 
 - Location: [Snellius 407-409](https://goo.gl/maps/2R1QxpEoGojjvriu7), Faculty of Science, Leiden University
 - Date and time: Friday, 13 May 2022 from 17:00 to 00:00.
-- Register [here](https://docs.google.com/forms/d/e/1FAIpQLSeYzQxuBdwyUjZ2KlxfCV126MYt8csme72OCHSd_m6EWEV6yw/viewform?usp=sf_link) before Tuesday, 10 May 2022.
+- Register [here](https://docs.google.com/forms/d/e/1FAIpQLSeYzQxuBdwyUjZ2KlxfCV126MYt8csme72OCHSd_m6EWEV6yw/viewform?usp=sf_link) before Friday, 13 May 2022.
 
 ## What is this about?
 Fundamentally, this hackathon is about human and artificial intelligence. Human intelligence is commonly measured by means of an IQ test, quantifying the intellectual capabilities of a person in different domains such as analogical reasoning, vocabulary, processing speed, and general knowledge. Let's see how far we get in getting a computer to show some of the same capabilities.

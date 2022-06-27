@@ -7,6 +7,7 @@ classes: wide
 
 ## Papers
 
+- Kouwenhoven, T., de Kleijn, R., Raaijmakers, S., & Verhoef, T. (coming soon!). Human behavior modeling in emergence of communication.
 - Vegt, P. S., & de Kleijn, R. (coming soon!). Cognitive effects of the anthropomorphization of artificial agents in human–robot interactions.
 - de Kleijn, R. (coming soon!). Neural network architectures for robot controllers in a dynamic foraging task.
 - Kouwenhoven, T., de Kleijn, R., Raaijmakers, S., & Verhoef, T. (2022). Need for structure and the emergence of communication. *Proceedings of the 44th Annual Conference of the Cognitive Science Society,* 549–555. [[PDF](../assets/pdf/2022_Kouwenhoven_CogSci.pdf)] 

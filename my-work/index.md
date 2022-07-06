@@ -76,6 +76,7 @@ classes: wide
 - de Kleijn, R. (March 12, 2013). Measuring the unconscious mind. Leiden Psychology Blog.
 
 ## Invited talks and media
+- de Kleijn, R. Waarom vertrouwen mensen nieuwe technologie (niet)? [Why (don't) people trust new technologies?] *Symposium Nieuwe Technologie en Privacy,* Leiden, Netherlands. *January 19, 2022. (invited talk)*
 - de Kleijn, R. What is artificial intelligence? *Prometheus,* Leiden, Netherlands. *December 1, 2021. (invited talk)*
 - de Kleijn, R. Artificial intelligence and psychology. *SPS-NIP Lustrum Psychology Congress,* Utrecht, Netherlands. *November 12, 2021. (invited talk)*
 - de Kleijn, R. Man–machine collaboration in computational creativity. *IHFC Seminar,* Delhi, India. *August 11, 2021. (invited talk)*

@@ -8,7 +8,6 @@ classes: wide
 ## Papers
 
 - Kouwenhoven, T., Verhoef, T., Raaijmakers, S., de Kleijn, R. (coming soon!). Human behavior modeling in emergence of communication.
-- Vegt, P. S., & de Kleijn, R. (coming soon!). Cognitive effects of the anthropomorphization of artificial agents in human–robot interactions.
 - de Kleijn, R. (coming soon!). Neural network architectures for robot controllers in a dynamic foraging task.
 - Kouwenhoven, T., de Kleijn, R., Raaijmakers, S., & Verhoef, T. (2022). Need for structure and the emergence of communication. *Proceedings of the 44th Annual Conference of the Cognitive Science Society,* 549–555. [[PDF](../assets/pdf/2022_Kouwenhoven_CogSci.pdf)] 
 - Sen, D., de Kleijn, R., & Kachergis, G. (2022). Behavioral optimization in a robotic serial reaching task using predictive information. *IEEE Transactions on Cognitive and Developmental Systems.* [doi: [10.1109/TCDS.2022.3176459](http://dx.doi.org/10.1109/TCDS.2022.3176459)] [[PDF](../assets/pdf/2022_Sen_IEEE_TCDS.pdf)]
@@ -63,6 +62,7 @@ classes: wide
 
 ## Book chapters
 
+- Vegt, P. S., & de Kleijn, R. (coming soon!). Cognitive effects of the anthropomorphization of artificial agents in human–robot interactions.
 - de Kleijn, R. (2022). Artificial intelligence versus biological intelligence: A historical overview. In B. Custers & E. Fosch Villaronga (Eds.), *Law and artificial intelligence: Regulating AI and applying AI in legal practice.* Springer. [[link](https://link.springer.com/book/10.1007/978-94-6265-523-2)]
 - de Kleijn, R., Kachergis, G., & Hommel, B. (2015). Robotic action control: On the crossroads of cognitive psychology and robotics. In H. Samani (Ed.), *Cognitive robotics.* Taylor & Francis. [[link](https://www.crcpress.com/Cognitive-Robotics/Samani/p/book/9781482244564)] [[PDF](../assets/pdf/2015_DeKleijn_Kachergis_Hommel_CogRobChapter.pdf)]
 

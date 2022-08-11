@@ -15,7 +15,7 @@ My current research is focused on how artificial robotic agents can solve comple
 
 I am involved in teaching or coordinating the following courses:
 
-- Artificial Intelligence and Neurocognition
+- Artificial Intelligence
 - Introduction to Psychology *[Inleiding in de Psychologie]*
 - Introduction to Cognitive Science
 - Reinforcement Learning and Decision Making: Neural and Computational Mechanisms

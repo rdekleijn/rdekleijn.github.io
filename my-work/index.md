@@ -68,6 +68,7 @@ classes: wide
 
 ## Other publications
 
+- de Kleijn, R. (January 27, 2022). Come on, we don't like our privacy *that* much... Pieter's Corner.
 - de Kleijn, R. (December 23, 2014). Robots really are going to make our lives better. Leiden Psychology Blog.
 - de Kleijn, R. (June 3, 2014). Life, love, …and robots. LIBC Blog.
 - de Kleijn, R. (September 30, 2013). Winter blues? Leiden Psychology Blog.

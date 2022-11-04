@@ -79,11 +79,12 @@ classes: wide
 - de Kleijn, R. (March 12, 2013). Measuring the unconscious mind. Leiden Psychology Blog.
 
 ## Invited talks and media
+- de Kleijn, R. Evolutionary algorithms and evolutionary robotics. *BERKS AIMS Seminar,* Penn State University. *September 28, 2022. (invited talk)*
 - de Kleijn, R. Radio Weetlust: Kunstmatige intelligentie. *Sleutelstad FM, September 5, 2022. (radio interview)*
 - de Kleijn, R. Waarom vertrouwen mensen nieuwe technologie (niet)? [Why (don't) people trust new technologies?] *Symposium Nieuwe Technologie en Privacy,* Leiden, Netherlands. *January 19, 2022. (invited talk)*
 - de Kleijn, R. What is artificial intelligence? *Prometheus,* Leiden, Netherlands. *December 1, 2021. (invited talk)*
 - de Kleijn, R. Artificial intelligence and psychology. *SPS-NIP Lustrum Psychology Congress,* Utrecht, Netherlands. *November 12, 2021. (invited talk)*
-- de Kleijn, R. Man–machine collaboration in computational creativity. *IHFC Seminar,* Delhi, India. *August 11, 2021. (invited talk)*
+- de Kleijn, R. Man–machine collaboration in computational creativity. *IHFC Seminar,* IIT Delhi, Delhi, India. *August 11, 2021. (invited talk)*
 - de Kleijn, R. Fundamentals of artificial intelligence. *SIB Lecture,* Utrecht, Netherlands. *November 19, 2019. (invited talk)*
 - de Kleijn, R. AI in high-risk omgevingen. *Intergo netwerkbijeenkomst,* Amersfoort, Netherlands. *November 19, 2019. (invited talk)*
 - de Kleijn, R. Artificial vs. biological intelligence: can we learn from each other? *SAILS Symposium: The future of AI is human,* Museum Volkenkunde, Leiden, Netherlands. *October 14, 2019. (invited talk)*

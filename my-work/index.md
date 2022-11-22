@@ -8,7 +8,7 @@ classes: wide
 ## Papers
 
 - Lloyd, B., Wurm, F., Lucchi, F., de Kleijn, R., & Nieuwenhuis, S. (coming soon!). The neuromodulatory effects of transcutaneous vagus nerve stimulation: a replication.
-- Kouwenhoven, T., Verhoef, T., Raaijmakers, S., de Kleijn, R. (coming soon!). Towards learning grounded vocabularies for human–machine interaction.
+- Kouwenhoven, T., Verhoef, T., Raaijmakers, S., de Kleijn, R. (coming soon!). Deep neural agents for modeling human sequential behavior in emergent communication.
 - de Kleijn, R. (coming soon!). Neural network architectures for robot controllers in a dynamic foraging task.
 - Kouwenhoven, T., de Kleijn, R., Raaijmakers, S., & Verhoef, T. (2022). Need for structure and the emergence of communication. *Proceedings of the 44th Annual Conference of the Cognitive Science Society,* 549–555. [[PDF](../assets/pdf/2022_Kouwenhoven_CogSci.pdf)] 
 - Sen, D., de Kleijn, R., & Kachergis, G. (2022). Behavioral optimization in a robotic serial reaching task using predictive information. *IEEE Transactions on Cognitive and Developmental Systems.* [doi: [10.1109/TCDS.2022.3176459](http://dx.doi.org/10.1109/TCDS.2022.3176459)] [[PDF](../assets/pdf/2022_Sen_IEEE_TCDS.pdf)]

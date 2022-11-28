@@ -79,6 +79,7 @@ classes: wide
 - de Kleijn, R. (March 12, 2013). Measuring the unconscious mind. Leiden Psychology Blog.
 
 ## Invited talks and media
+- de Kleijn, R. Villa VdB: Volgende stap in kunstmatige intelligentie: computer leert bordspel Diplomacy. *NPO Radio 1, November 28, 2022. (radio interview)*
 - de Kleijn, R. Evolutionary algorithms and evolutionary robotics. *BERKS AIMS Seminar,* Penn State University. *September 28, 2022. (invited talk)*
 - de Kleijn, R. Radio Weetlust: Kunstmatige intelligentie. *Sleutelstad FM, September 5, 2022. (radio interview)*
 - de Kleijn, R. Waarom vertrouwen mensen nieuwe technologie (niet)? [Why (don't) people trust new technologies?] *Symposium Nieuwe Technologie en Privacy,* Leiden, Netherlands. *January 19, 2022. (invited talk)*

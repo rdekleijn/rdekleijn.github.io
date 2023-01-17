@@ -7,6 +7,7 @@ classes: wide
 
 ## Papers
 
+- Goekoop, R., & de Kleijn, R. (coming soon!). On the structure and dynamics of living systems: explaining power-law state-trait continua in morphology, inner experience and overt behavior. 
 - Lloyd, B., Wurm, F., Lucchi, F., de Kleijn, R., & Nieuwenhuis, S. (coming soon!). The neuromodulatory effects of transcutaneous vagus nerve stimulation: a replication.
 - Kouwenhoven, T., Verhoef, T., Raaijmakers, S., de Kleijn, R. (coming soon!). Deep neural agents for modeling human sequential behavior in emergent communication.
 - de Kleijn, R. (coming soon!). Neural network architectures for robot controllers in a dynamic foraging task.

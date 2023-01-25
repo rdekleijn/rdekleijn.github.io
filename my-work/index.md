@@ -82,6 +82,7 @@ classes: wide
 ## Invited talks and media
 - de Kleijn, R. Villa VdB: Volgende stap in kunstmatige intelligentie: computer leert bordspel Diplomacy. *NPO Radio 1, November 28, 2022. (radio interview)*
 - de Kleijn, R. Evolutionary algorithms and evolutionary robotics. *BERKS AIMS Seminar,* Penn State University. *September 28, 2022. (invited talk)*
+- de Kleijn, R. EditieNL: Wat gaat er mis bij complotdenkers? *RTL 4, September 22, 2022. (TV interview)*
 - de Kleijn, R. Radio Weetlust: Kunstmatige intelligentie. *Sleutelstad FM, September 5, 2022. (radio interview)*
 - de Kleijn, R. Waarom vertrouwen mensen nieuwe technologie (niet)? [Why (don't) people trust new technologies?] *Symposium Nieuwe Technologie en Privacy,* Leiden, Netherlands. *January 19, 2022. (invited talk)*
 - de Kleijn, R. What is artificial intelligence? *Prometheus,* Leiden, Netherlands. *December 1, 2021. (invited talk)*

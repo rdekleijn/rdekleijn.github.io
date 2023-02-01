@@ -87,6 +87,7 @@ classes: wide
 - de Kleijn, R. Waarom vertrouwen mensen nieuwe technologie (niet)? [Why (don't) people trust new technologies?] *Symposium Nieuwe Technologie en Privacy,* Leiden, Netherlands. *January 19, 2022. (invited talk)*
 - de Kleijn, R. What is artificial intelligence? *Prometheus,* Leiden, Netherlands. *December 1, 2021. (invited talk)*
 - de Kleijn, R. Artificial intelligence and psychology. *SPS-NIP Lustrum Psychology Congress,* Utrecht, Netherlands. *November 12, 2021. (invited talk)*
+- de Kleijn, R. Vraag het de wetenschapper: Kunnen we een robot een ei leren bakken? *Nationale Wetenschapsagenda. September 8, 2021. (invited talk)* [[link](https://www.youtube.com/watch?v=WDpHQcfhykA)]
 - de Kleijn, R. Man–machine collaboration in computational creativity. *IHFC Seminar,* IIT Delhi, Delhi, India. *August 11, 2021. (invited talk)*
 - de Kleijn, R. Fundamentals of artificial intelligence. *SIB Lecture,* Utrecht, Netherlands. *November 19, 2019. (invited talk)*
 - de Kleijn, R. AI in high-risk omgevingen. *Intergo netwerkbijeenkomst,* Amersfoort, Netherlands. *November 19, 2019. (invited talk)*

@@ -89,6 +89,7 @@ classes: wide
 - de Kleijn, R. Artificial intelligence and psychology. *SPS-NIP Lustrum Psychology Congress,* Utrecht, Netherlands. *November 12, 2021. (invited talk)*
 - de Kleijn, R. Vraag het de wetenschapper: Kunnen we een robot een ei leren bakken? *Nationale Wetenschapsagenda. September 8, 2021. (invited talk)* [[link](https://www.youtube.com/watch?v=WDpHQcfhykA)]
 - de Kleijn, R. Man–machine collaboration in computational creativity. *IHFC Seminar,* IIT Delhi, Delhi, India. *August 11, 2021. (invited talk)*
+- de Kleijn, R. The future of AI is human. *SAILS Online Talk Show,* Leiden, Netherlands. *December 15, 2020.* [[link](https://www.youtube.com/watch?v=G6kgAuL2wrU)]
 - de Kleijn, R. Fundamentals of artificial intelligence. *SIB Lecture,* Utrecht, Netherlands. *November 19, 2019. (invited talk)*
 - de Kleijn, R. AI in high-risk omgevingen. *Intergo netwerkbijeenkomst,* Amersfoort, Netherlands. *November 19, 2019. (invited talk)*
 - de Kleijn, R. Artificial vs. biological intelligence: can we learn from each other? *SAILS Symposium: The future of AI is human,* Museum Volkenkunde, Leiden, Netherlands. *October 14, 2019. (invited talk)*

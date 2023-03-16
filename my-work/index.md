@@ -8,7 +8,7 @@ classes: wide
 ## Papers
 
 - Goekoop, R., & de Kleijn, R. (coming soon!). On the structure and dynamics of living systems: explaining power-law state-trait continua in morphology, inner experience and overt behavior. 
-- Lloyd, B., Wurm, F., Lucchi, F., de Kleijn, R., & Nieuwenhuis, S. (coming soon!). The neuromodulatory effects of transcutaneous vagus nerve stimulation: a replication.
+- Lloyd, B., Wurm, F., de Kleijn, R., & Nieuwenhuis, S. (coming soon!). Short-term transcutaneous vagus nerve stimulation increases pupil size but does not affect EEG alpha power: A replication of Sharon et al. (2021, Journal of Neuroscience).
 - Kouwenhoven, T., Verhoef, T., Raaijmakers, S., de Kleijn, R. (coming soon!). Deep neural agents for modeling human sequential behavior in emergent communication.
 - de Kleijn, R. (coming soon!). Neural network architectures for robot controllers in a dynamic foraging task.
 - Kouwenhoven, T., de Kleijn, R., Raaijmakers, S., & Verhoef, T. (2022). Need for structure and the emergence of communication. *Proceedings of the 44th Annual Conference of the Cognitive Science Society,* 549–555. [[PDF](../assets/pdf/2022_Kouwenhoven_CogSci.pdf)] 

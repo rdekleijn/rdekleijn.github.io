@@ -7,6 +7,7 @@ classes: wide
 
 ## Papers
 
+- Glas, R., de Kleijn, R., Regeer, E. J., Kupka, R., Koenders, M. A. (coming soon!). Do you feel up when you go up? A pilot study of a Virtual Reality manic like mood induction paradigm.
 - Kouwenhoven, T., Verhoef, T., Raaijmakers, S., de Kleijn, R. (coming soon!). Deep neural agents for modeling human sequential behavior in emergent communication.
 - de Kleijn, R. (coming soon!). Neural network architectures for robot controllers in a dynamic foraging task.
 - Lloyd, B., Wurm, F., de Kleijn, R., & Nieuwenhuis, S. (in press). Short-term transcutaneous vagus nerve stimulation increases pupil size but does not affect EEG alpha power: A replication of Sharon et al. (2021, Journal of Neuroscience). *Brain Stimulation.*

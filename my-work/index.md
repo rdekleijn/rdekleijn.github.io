@@ -67,7 +67,7 @@ classes: wide
 
 ## Book chapters
 
-- Vegt, P. S., & de Kleijn, R. (2023). Cognitive effects of the anthropomorphization of artificial agents in human–robot interactions. In S. Mukherjee, V. Dutt, & N. Srinivasan (Eds.), *Applied Cognitive Science and Technology: Implications of Interactions Between Human Cognition and Technology.* Springer. [[link](https://link.springer.com/book/10.1007/978-981-99-3966-4)]
+- Vegt, P. S., & de Kleijn, R. (2023). Cognitive effects of the anthropomorphization of artificial agents in human–robot interactions. In S. Mukherjee, V. Dutt, & N. Srinivasan (Eds.), *Applied cognitive science and technology: Implications of interactions between human cognition and technology.* Springer. [[link](https://link.springer.com/book/10.1007/978-981-99-3966-4)]
 - de Kleijn, R. (2022). Artificial intelligence versus biological intelligence: A historical overview. In B. Custers & E. Fosch Villaronga (Eds.), *Law and artificial intelligence: Regulating AI and applying AI in legal practice.* Springer. [[link](https://link.springer.com/book/10.1007/978-94-6265-523-2)] [[PDF](../assets/pdf/2022_DeKleijn_AI-LAW_chapter.pdf)]
 - de Kleijn, R., Kachergis, G., & Hommel, B. (2015). Robotic action control: On the crossroads of cognitive psychology and robotics. In H. Samani (Ed.), *Cognitive robotics.* Taylor & Francis. [[link](https://www.crcpress.com/Cognitive-Robotics/Samani/p/book/9781482244564)] [[PDF](../assets/pdf/2015_DeKleijn_Kachergis_Hommel_CogRobChapter.pdf)]
 

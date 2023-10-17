@@ -132,14 +132,6 @@ classes: wide
 - de Kleijn, R., & McClelland, J. L. Computational modeling of decision making. *Stanford University. December 1, 2011.*
 - de Kleijn, R., & van der Does, A. J. W. A psychometric assessment of the LEIDS-R scale for cognitive reactivity. *Minnesota Undergraduate Psychology Conference,* St. Paul, MN. *April 2008.*
 
-## Review and editorial
-- Guest editor *De Psycholoog [The Psychologist]* (2015)
-- Reviewer for *Cognition*
-- Reviewer for *Computers in Human Behavior*
-- Reviewer for *Frontiers in Neurorobotics*
-- Reviewer for *Knowledge-Based Systems*
-- Reviewer for *Minds and Machines*
-
 ## Board memberships
 - Secretary of *Nederlandse Vereniging voor Psychonomie [Dutch Psychonomics Society]* (2015–2021)
 - Treasurer of *LEO [Leiden PhD Association]* (2013–2014)

@@ -8,7 +8,7 @@ classes: wide
 ## Papers
 
 - Nas, E., & de Kleijn, R. (coming soon!). Relationship between social media use and detection of deepfakes.
-- Raaijmakers, S., Kouwenhoven, T., Verhoef, T., de Kleijn, R., Bakker, R., Cremers, A. (coming soon!). Stick to the facts: Memory-augmented generative adversarial transformers.
+- Raaijmakers, S., Bakker, R., Cremers, A., de Kleijn, R., Kouwenhoven, T., & Verhoef, T. (coming soon!). Stick to the facts: Memory-augmented generative adversarial transformers.
 - Glas, R., de Kleijn, R., Regeer, E. J., Kupka, R., Koenders, M. A. (in press). Do you feel up when you go up? A pilot study of a virtual reality manic-like mood induction paradigm. *British Journal of Clinical Psychology.*
 - Goekoop, R., & de Kleijn, R. (2023). Hierarchical network structure as the source of hierarchical dynamics (power-law frequency spectra) in living and non-living systems: how state-trait continua (body plans, personalities) emerge from first principles in biophysics. *Neuroscience & Biobehavioral Reviews, 154,* 105402. [doi: [10.1016/j.neubiorev.2023.105402](https://doi.org/10.1016/j.neubiorev.2023.105402)] [[PDF](../assets/pdf/2023_Goekoop_DeKleijn_NBR.pdf)]
 - Kouwenhoven, T., Verhoef, T., Raaijmakers, S., & de Kleijn, R. (2023). Modeling human sequential behavior with deep neural networks in emergent communication. *Proceedings of the 45th Annual Meeting of the Cognitive Science Society,* 1747–1754. [[link](https://escholarship.org/uc/item/6326r5cg)]

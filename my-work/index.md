@@ -84,6 +84,8 @@ classes: wide
 
 ## Invited talks and media
 - de Kleijn, R. Wat is generatieve AI? [What is generative AI?] *Leeuwendaallezing,* Rijswijk, Netherlands. *February 18, 2024. (invited talk)*
+- de Kleijn, R. Anthropomorphization in human–robot interaction. *SAILS Lunch Seminar, December 18, 2023. (invited talk)*
+- de Kleijn, R. Using large language models in psychology. *Symposium AI and LLMs: Keeping the linguist in the loop, December 8, 2023. (invited talk)*
 - de Kleijn, R. Villa VdB: Volgende stap in kunstmatige intelligentie: computer leert bordspel Diplomacy. *NPO Radio 1, November 28, 2022. (radio interview)*
 - de Kleijn, R. Evolutionary algorithms and evolutionary robotics. *BERKS AIMS Seminar,* Penn State University. *September 28, 2022. (invited talk)*
 - de Kleijn, R. EditieNL: Wat gaat er mis bij complotdenkers? *RTL 4, September 22, 2022. (TV interview)*

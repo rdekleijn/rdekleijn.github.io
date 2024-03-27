@@ -39,21 +39,12 @@ No, this hackathon will be held on location.
 ## Will a computer be provided?
 No, you are expected to bring your own device. Power outlets and access to eduroam and Leiden University WiFi are available.
 
+# Blabla
 
-## Technical details
+## Questions that you might have
 
-Note that details below may change. If so, this information will be provided at the start of the event.
+### Why dodgeball and not volleyball or soccer or [insert sport]?
+Whereas volleyball or soccer require specific practice before actually being able to meaningfully contribute to your team, dodgeball is a very low-threshold sport that only requires basic hand-eye coordination and the ability to throw a ball. This makes it a perfect sport for everyone to contribute.
 
-### What is the deliverable?
-You will create a computer program that can solve [Raven's Progressive Matrices](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)-like puzzles. 2×2 puzzles will be provided as 3 PNG files, with 6 PNG files as possible answers. 3×3 puzzles will be provided as 8 PNG files, with 8 PNG files as possible answers. Given the input files for a specific puzzle, your program should print the file name of the correct answer to console (or stdout).
-
-*Example of a 3×3 Raven's Progressive Matrices puzzle*
-
-![Example of a 3×3 Raven's Progressive Matrices puzzle](https://www.iqmindware.com/wp-content/uploads/2012/10/RAPM1.jpg "Example of a 3×3 Raven's Progressive Matrices puzzle")
-
-### What language should I use?
-You can use your language of choice. However, we encourage you to make sure beforehand you have all necessary libraries to read PNG files (e.g. Pillow for Python, `libpng` for C++, `javax.imageio` for Java, the `png` package for R, OpenCV with appropriate bindings).
-
-
-## Organizers
-This hackathon is organized by [Roy de Kleijn](https://www.universiteitleiden.nl/en/staffmembers/roy-de-kleijn) and [Tessa Verhoef](https://www.universiteitleiden.nl/en/staffmembers/tessa-verhoef) with valuable support by [Mischa Hautvast](https://www.universiteitleiden.nl/medewerkers/mischa-hautvast). We would like to thank the [SAILS](https://www.universiteitleiden.nl/en/sails) initiative and the [Leiden Institute for Brain and Cognition](https://www.universiteitleiden.nl/en/social-behavioural-sciences/libc) for sponsoring this event.
+### Isn’t dodgeball injury-prone?
+No. We will use soft, 22 cm foam balls that do not hurt when being hit and can do no damage with normal play.

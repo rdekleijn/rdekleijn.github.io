@@ -23,10 +23,10 @@ We are organizing an interdepartmental dodgeball tournament for the different un
 The tournament will have a round-robin design. Each team will compete against all other teams once, with the winner being the team that wins the most games.
 
 ## Who are eligible to participate?
-Participation is open to teams consisting of 1 to 4 individuals from the Leiden academic community, from BA/BSc students to professors. It's no problem if some team members are not affiliated with Leiden University, so feel free to register with your housemates or friends. We encourage mixed-seniority teams and interdisciplinary teams to apply.
+Participation is open to teams consisting of 6 staff members from the various units of the Institute for Psychology. Each unit can register only one team.
 
 ## What does it cost to register?
-Participation is free for all participants, this includes the BBQ afterwards. However, it does not include drinks, which can be purchased from the USC cafeteria.
+Participation is free to all participants, this includes the BBQ afterwards. However, it does not include drinks, which can be purchased from the USC cafeteria.
 
 
 ## Questions that you might have

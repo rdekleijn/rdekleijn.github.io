@@ -5,8 +5,8 @@ author_profile: true
 classes: wide
 ---
 
-- Location: [University Sports Center (USC) hockey fields](https://goo.gl/maps/2R1QxpEoGojjvriu7)
-- Date and time: xxx from 15:00 to 20:00.
+- Location: [University Sports Center (USC) hockey fields](https://maps.app.goo.gl/yWmSJjPauUc7BFiR9)
+- Date and time: Thursday, 6 June 2024 from 15:00 to 20:00.
 - Register your 6-person team [here](https://forms.gle/NgPUYJFZ7BsdUaEW9).
 
 ## What is this about?

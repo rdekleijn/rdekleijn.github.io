@@ -17,6 +17,8 @@ We are organizing an interdepartmental dodgeball tournament for the different un
 2. 17:30–18:00 Drinks
 3. 18:00–20:00 BBQ
 
+![Location of the tournament](dodgeball-map.png)
+
 ## Who are eligible to participate?
 Participation is open to teams consisting of 1 to 4 individuals from the Leiden academic community, from BA/BSc students to professors. It's no problem if some team members are not affiliated with Leiden University, so feel free to register with your housemates or friends. We encourage mixed-seniority teams and interdisciplinary teams to apply.
 

@@ -1,12 +1,12 @@
 ---
 title: Institute for Psychology Dodgeball Tournament 2024
 layout: single
-author_profile: true
+author_profile: false
 classes: wide
 ---
 
 - Location: [University Sports Center (USC) hockey fields](https://maps.app.goo.gl/yWmSJjPauUc7BFiR9)
-- Date and time: Thursday, 6 June 2024 from 15:00 to 20:00.
+- Date and time: **Thursday, 6 June 2024 from 15:00 to 20:00.**
 - Register your 6-person team [here](https://forms.gle/NgPUYJFZ7BsdUaEW9).
 
 ## What is this about?

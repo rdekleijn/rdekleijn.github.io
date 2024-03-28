@@ -20,7 +20,7 @@ We are organizing an interdepartmental dodgeball tournament for the different un
 ![Location of the tournament](dodgeball-map.png)
 
 ## Tournament design
-The tournament will have a round-robin design. Each team will compete against all other teams once, with the winner being the team that wins the most games.
+The tournament will have a round-robin design. Each team will compete against all other teams once, with the winner being the team that wins the most games. The number of rounds will depend on the number of registered teams. Assuming that 9 teams register, there will be 9 rounds with one team having no game each round.
 
 ## Who are eligible to participate?
 Participation is open to teams consisting of 6 staff members from the various units of the Institute for Psychology. Each unit can register only one team.

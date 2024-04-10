@@ -23,12 +23,10 @@ We are organizing an interdepartmental dodgeball tournament for the different un
 The tournament will have a round-robin design. Each team will compete against all other teams once, with the winner being the team that wins the most games. The number of rounds will depend on the number of registered teams. Assuming that 9 teams register, there will be 9 rounds with one team having no game each round. We expect some members of the non-playing team to referee the matches being played.
 
 ## Who are eligible to participate?
-Participation is open to teams consisting of 6 employees from the various units of the Institute for Psychology. Each unit can register only one team.
-
-> If not all units register a team, we may open up another round of registration.
+Participation is open to teams consisting of 6 employees from the various units of the Institute for Psychology. Each unit can register only one team. If not all units register a team, we may open up another round of registration.
 
 ## What does it cost to register?
-Participation is free to all participants, this includes the BBQ afterwards. However, it does not include drinks, which can be purchased from the USC cafeteria or BYO.
+Participation is free to all players, this includes the BBQ afterwards. However, it does not include drinks, which can be purchased from the USC cafeteria or BYO.
 
 
 ## Questions that you might have

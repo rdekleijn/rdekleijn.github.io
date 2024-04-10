@@ -25,6 +25,8 @@ The tournament will have a round-robin design. Each team will compete against al
 ## Who are eligible to participate?
 Participation is open to teams consisting of 6 employees from the various units of the Institute for Psychology. Each unit can register only one team. If not all units register a team, we may open up another round of registration.
 
+If you cannot find enough enthusiastic colleagues to form a team with, you can also register as an independent player. The organizers will then place you in a team.
+
 ## What does it cost to register?
 Participation is free to all players, this includes the BBQ afterwards. However, it does not include drinks, which can be purchased from the USC cafeteria or BYO.
 

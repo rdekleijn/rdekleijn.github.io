@@ -7,10 +7,10 @@ classes: wide
 
 - Location: [University Sports Center (USC) hockey fields](https://maps.app.goo.gl/yWmSJjPauUc7BFiR9)
 - Date and time: **Thursday, 6 June 2024 from 15:00 to 20:00.**
-- Register your 6-person team [here](https://forms.gle/NgPUYJFZ7BsdUaEW9).
+- Register your 6-player team [here](https://docs.google.com/forms/d/e/1FAIpQLSeehFEN6nkCTLKQfdg2eSbyI3TceohdeIHmib764AWZbUAs-g/viewform?usp=sf_link).
 
 ## What is this about?
-We are organizing an interdepartmental dodgeball tournament for the different units of the Institute for Psychology of Leiden University. All units are invited to register a 6-person team.
+We are organizing an interdepartmental dodgeball tournament for the different units of the Institute for Psychology of Leiden University. All units are invited to register a 6-player team.
 
 ## Approximate schedule
 1. 15:00–17:30 Dodgeball tournament
@@ -20,13 +20,15 @@ We are organizing an interdepartmental dodgeball tournament for the different un
 ![Location of the tournament](dodgeball-map.png)
 
 ## Tournament design
-The tournament will have a round-robin design. Each team will compete against all other teams once, with the winner being the team that wins the most games. The number of rounds will depend on the number of registered teams. Assuming that 9 teams register, there will be 9 rounds with one team having no game each round.
+The tournament will have a round-robin design. Each team will compete against all other teams once, with the winner being the team that wins the most games. The number of rounds will depend on the number of registered teams. Assuming that 9 teams register, there will be 9 rounds with one team having no game each round. We expect some members of the non-playing team to referee the matches being played.
 
 ## Who are eligible to participate?
-Participation is open to teams consisting of 6 staff members from the various units of the Institute for Psychology. Each unit can register only one team.
+Participation is open to teams consisting of 6 employees from the various units of the Institute for Psychology. Each unit can register only one team.
+
+> If not all units register a team, we may open up another round of registration.
 
 ## What does it cost to register?
-Participation is free to all participants, this includes the BBQ afterwards. However, it does not include drinks, which can be purchased from the USC cafeteria.
+Participation is free to all participants, this includes the BBQ afterwards. However, it does not include drinks, which can be purchased from the USC cafeteria or BYO.
 
 
 ## Questions that you might have

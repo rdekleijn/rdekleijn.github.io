@@ -6,16 +6,18 @@ classes: wide
 ---
 
 - Location: [University Sports Center (USC) hockey fields](https://maps.app.goo.gl/yWmSJjPauUc7BFiR9)
-- Date and time: **Thursday, 6 June 2024 from 15:00 to 21:30.**
+- Date and time: **Thursday, 6 June 2024 from 15:45 to 21:30.**
 - Register your 6-player team [here](https://docs.google.com/forms/d/e/1FAIpQLSeehFEN6nkCTLKQfdg2eSbyI3TceohdeIHmib764AWZbUAs-g/viewform?usp=sf_link).
 
 ## What is this about?
 We are organizing an interdepartmental dodgeball tournament for the different units of the Institute for Psychology of Leiden University. All units are invited to register a 6-player team.
 
 ## Approximate schedule
-1. 15:00–17:30 Dodgeball tournament
+1. 15:45–17:30 Dodgeball tournament
 2. 17:30–18:00 Drinks
 3. 18:00–21:30 BBQ
+
+> Note: At the request of the Director of Education, we have changed the starting time from 15:00 to 15:45 to allow staff members to attend part of the faculty Education Day.
 
 ![Location of the tournament](dodgeball-map.png)
 

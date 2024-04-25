@@ -85,6 +85,7 @@ classes: wide
 - de Kleijn, R. (March 12, 2013). Measuring the unconscious mind. Leiden Psychology Blog.
 
 ## Invited talks and media
+- Nas, E., & de Kleijn, R. Deepfake classification. *TeDCog Lab Talk, University of Bristol,* Bristol, UK. *April 25, 2024. (invited talk)*
 - de Kleijn, R. Wat is generatieve AI? [What is generative AI?] *Leeuwendaallezing,* Rijswijk, Netherlands. *February 18, 2024. (invited talk)*
 - de Kleijn, R. Anthropomorphization in human–robot interaction. *SAILS Lunch Seminar, December 18, 2023. (invited talk)*
 - de Kleijn, R. Using large language models in psychology. *Symposium AI and LLMs: Keeping the linguist in the loop, December 8, 2023. (invited talk)*

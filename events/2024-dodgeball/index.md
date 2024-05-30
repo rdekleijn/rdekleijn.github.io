@@ -29,6 +29,14 @@ Participation is open to teams consisting of 6 employees from the various units 
 
 If you cannot find enough enthusiastic colleagues to form a team with, you can also register as an independent player. The organizers will then place you in a team.
 
+As of 30 May, six teams have registered:
+- ABO 1
+- ABO 2
+- Cognitive Psychology
+- Methods & Statistics
+- Labyrint
+- Institute
+
 ## What does it cost to register?
 Participation is free to all players, this includes the BBQ afterwards. However, it does not include drinks, which can be purchased from the USC cafeteria.
 

@@ -12,6 +12,8 @@ classes: wide
 ## What is this about?
 We are organizing an interdepartmental dodgeball tournament for the different units of the Institute for Psychology of Leiden University. All units are invited to register a 6-player team.
 
+> **Registration is now closed.** If you still want to participate, send me an [email](mailto:kleijnrde@fsw.leidenuniv.nl).
+
 ## Approximate schedule
 1. 15:45–17:30 Dodgeball tournament
 2. 17:30–18:00 Drinks

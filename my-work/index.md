@@ -8,7 +8,7 @@ classes: wide
 ## Papers
 
 - Dev, A., de Kleijn, R., & Mukherjee, S. (coming soon!). Prosocial behavior toward commercial robots in human-robot dictator games.
-- Heijnen, S., Sleutels, J., & de Kleijn, R. (2024). Model virtues in computational cognitive neuroscience. *Journal of Cognitive Neuroscience*. [doi: [10.1162/jocn_a_02183](https://doi.org/10.1162/jocn_a_02183)]
+- Heijnen, S., Sleutels, J., & de Kleijn, R. (2024). Model virtues in computational cognitive neuroscience. *Journal of Cognitive Neuroscience, 36,* 1683–1694. [doi: [10.1162/jocn_a_02183](https://doi.org/10.1162/jocn_a_02183)]
 - Raaijmakers, S., Bakker, R., Cremers, A., de Kleijn, R., Kouwenhoven, T., & Verhoef, T. (2024). Memory-augmented generative adversarial transformers. *arXiv:2402.19218.* [[PDF](../assets/pdf/2024_Raaijmakers.pdf)] [[link](https://arxiv.org/abs/2402.19218)]
 - de Kleijn, R., Dev, A., & Mukherjee, S. (2024). Behavioral-economic games with commercially available robots. *Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction.* [doi: [10.1145/3610978.3640575](https://dx.doi.org/10.1145/3610978.3640575)] [[PDF](../assets/pdf/2024_DeKleijn_HRI.pdf)]
 - Nas, E., & de Kleijn, R. (2024). Conspiracy thinking and social media use are associated with ability to detect deepfakes. *Telematics and Informatics, 87,* 102093. [doi: [10.1016/j.tele.2023.102093](https://dx.doi.org/10.1016/j.tele.2023.102093)] [[PDF](../assets/pdf/2024_Nas_DeKleijn_TI.pdf)]

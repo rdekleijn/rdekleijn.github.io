@@ -8,6 +8,9 @@ classes: wide
 ## Papers
 
 - Dev, A., de Kleijn, R., & Mukherjee, S. (coming soon!). Prosocial behavior toward commercial robots in human-robot dictator games.
+- Tromp, J., Wurm, F., Lucchi, F., de Kleijn, R., & Nieuwenhuis, S. (2024). Phasic alertness
+generates urgency and amplifies competition between evidence accumulators. In *bioRxiv* (p.
+2024.06.18.599522). [doi: [10.1101/2024.06.18.599522](https://doi.org/10.1101/2024.06.18.599522)]
 - Heijnen, S., Sleutels, J., & de Kleijn, R. (2024). Model virtues in computational cognitive neuroscience. *Journal of Cognitive Neuroscience, 36,* 1683–1694. [doi: [10.1162/jocn_a_02183](https://doi.org/10.1162/jocn_a_02183)]
 - Raaijmakers, S., Bakker, R., Cremers, A., de Kleijn, R., Kouwenhoven, T., & Verhoef, T. (2024). Memory-augmented generative adversarial transformers. *arXiv:2402.19218.* [[PDF](../assets/pdf/2024_Raaijmakers.pdf)] [[link](https://arxiv.org/abs/2402.19218)]
 - de Kleijn, R., Dev, A., & Mukherjee, S. (2024). Behavioral-economic games with commercially available robots. *Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction.* [doi: [10.1145/3610978.3640575](https://dx.doi.org/10.1145/3610978.3640575)] [[PDF](../assets/pdf/2024_DeKleijn_HRI.pdf)]
@@ -85,6 +88,7 @@ classes: wide
 - de Kleijn, R. (March 12, 2013). Measuring the unconscious mind. Leiden Psychology Blog.
 
 ## Invited talks and media
+- de Kleijn, R. What maakt menselijke intelligentie zo bijzonder? [What's so special about human intelligence?] *Pearson Clinical Symposium: Intelligentie & Cognitie bij Kind en Jeugd in een Digitaal Tijdperk,* Heemstede, Netherlands. *October 17, 2024. (invited talk)*
 - Nas, E., & de Kleijn, R. Deepfake classification. *TeDCog Lab Talk, University of Bristol,* Bristol, UK. *April 25, 2024. (invited talk)*
 - de Kleijn, R. Wat is generatieve AI? [What is generative AI?] *Leeuwendaallezing,* Rijswijk, Netherlands. *February 18, 2024. (invited talk)*
 - de Kleijn, R. Anthropomorphization in human–robot interaction. *SAILS Lunch Seminar, December 18, 2023. (invited talk)*

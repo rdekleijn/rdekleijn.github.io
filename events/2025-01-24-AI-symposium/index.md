@@ -13,16 +13,16 @@ classes: wide
 The Cognitive Psychology Unit of Leiden University is organizing a symposium on _active inference,_ a framework that posits perception, planning, and action as a probabilistic inference problem.
 
 ## Approximate schedule
-12:30-13:00	Welcome coffee	
-13:00-13:05	Introduction	
-13:05-13:50	Keynote by Thomas Parr
-13:55-14:25	_Natural Artificial Intelligence_ by Bert de Vries
-14:30-15:00	_Making Up Your Mind: A computational model of metacognitive mechanisms in implicit-explicit attitude interaction_ by	Casper Hesp
-15:00-15:15	Break	
-15:15-15:45	_Learning what matters: attention in the predictive brain_ by Heleen Slagter
-15:50-16:20	_Playfulness and the meaningful life: an active inference perspective_ by	Julian Kiverstein
-16:25-16:55	_Modeling mental health problems – an act of inference_	by Rutger Goekoop
-17:00-17:20	Panel discussion	
+- 12:30-13:00 Welcome coffee	
+- 13:00-13:05 Introduction	
+- 13:05-13:50 Keynote by Thomas Parr
+- 13:55-14:25 _Natural Artificial Intelligence_ by Bert de Vries
+- 14:30-15:00 _Making Up Your Mind: A computational model of metacognitive mechanisms in implicit-explicit attitude interaction_ by	Casper Hesp
+- 15:00-15:15 Break	
+- 15:15-15:45 _Learning what matters: attention in the predictive brain_ by Heleen Slagter
+- 15:50-16:20 _Playfulness and the meaningful life: an active inference perspective_ by	Julian Kiverstein
+- 16:25-16:55 _Modeling mental health problems – an act of inference_	by Rutger Goekoop
+- 17:00-17:20 Panel discussion	
 
 ## Questions that you might have
 

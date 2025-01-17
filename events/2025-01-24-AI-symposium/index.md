@@ -22,7 +22,8 @@ The Cognitive Psychology Unit of Leiden University is organizing a symposium on 
 - 15:15-15:45 _Learning what matters: attention in the predictive brain_ by Heleen Slagter
 - 15:50-16:20 _Playfulness and the meaningful life: an active inference perspective_ by	Julian Kiverstein
 - 16:25-16:55 _Modeling mental health problems – an act of inference_	by Rutger Goekoop
-- 17:00-17:20 Panel discussion	
+- 17:00-17:20 Panel discussion
+- 17:30-18:30 Drinks 
 
 ## Questions that you might have
 

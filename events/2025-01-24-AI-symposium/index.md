@@ -15,7 +15,7 @@ The Cognitive Psychology Unit of Leiden University is organizing a symposium on 
 ## Approximate schedule
 - 12:30-13:00 Welcome coffee	
 - 13:00-13:05 Introduction	
-- 13:05-13:50 Keynote by Thomas Parr
+- 13:05-13:50 Keynote: _Brain pathology and neuronal computation_ by Thomas Parr
 - 13:55-14:25 _Natural Artificial Intelligence_ by Bert de Vries
 - 14:30-15:00 _Making Up Your Mind: A computational model of metacognitive mechanisms in implicit-explicit attitude interaction_ by	Casper Hesp
 - 15:00-15:15 Break	

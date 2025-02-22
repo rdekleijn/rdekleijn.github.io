@@ -8,8 +8,8 @@ classes: wide
 ## Papers
 
 - Dev, A., de Kleijn, R., & Mukherjee, S. (coming soon!). Prosocial behavior toward commercial robots in human-robot dictator games.
-- Tromp, J., Wurm, F., Lucchi, F., de Kleijn, R., & Nieuwenhuis, S. (in press). Phasic alertness
-generates urgency and amplifies competition between evidence accumulators. *Journal of Neuroscience.*
+- Tromp, J., Wurm, F., Lucchi, F., de Kleijn, R., & Nieuwenhuis, S. (coming soon!). Phasic alertness
+generates urgency and amplifies competition between evidence accumulators.
 - Heijnen, S., Sleutels, J., & de Kleijn, R. (2024). Model virtues in computational cognitive neuroscience. *Journal of Cognitive Neuroscience, 36,* 1683–1694. [doi: [10.1162/jocn_a_02183](https://doi.org/10.1162/jocn_a_02183)]
 - Raaijmakers, S., Bakker, R., Cremers, A., de Kleijn, R., Kouwenhoven, T., & Verhoef, T. (2024). Memory-augmented generative adversarial transformers. *arXiv:2402.19218.* [[PDF](../assets/pdf/2024_Raaijmakers.pdf)] [[link](https://arxiv.org/abs/2402.19218)]
 - de Kleijn, R., Dev, A., & Mukherjee, S. (2024). Behavioral-economic games with commercially available robots. *Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction.* [doi: [10.1145/3610978.3640575](https://dx.doi.org/10.1145/3610978.3640575)] [[PDF](../assets/pdf/2024_DeKleijn_HRI.pdf)]

@@ -7,7 +7,7 @@ classes: wide
 
 ## Papers
 
-- Dev, A., de Kleijn, R., & Mukherjee, S. (coming soon!). Prosocial behavior toward commercial robots in human-robot dictator games.
+- Dev, A., de Kleijn, R., & Mukherjee, S. (coming soon!). Dictator game decisions with robot recipients.
 - Tromp, J., Wurm, F., Lucchi, F., de Kleijn, R., & Nieuwenhuis, S. (coming soon!). Phasic alertness
 generates urgency and amplifies competition between evidence accumulators.
 - Heijnen, S., Sleutels, J., & de Kleijn, R. (2024). Model virtues in computational cognitive neuroscience. *Journal of Cognitive Neuroscience, 36,* 1683–1694. [doi: [10.1162/jocn_a_02183](https://doi.org/10.1162/jocn_a_02183)]

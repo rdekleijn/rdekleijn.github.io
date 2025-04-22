@@ -10,7 +10,7 @@ classes: wide
 - Register your 6-player team [here](https://docs.google.com/forms/d/e/1FAIpQLSdOXBk9Is_R509xiL-b41qGZjL5UzEc_qpF9lMglhgfi5DlaQ/viewform?usp=dialog).
 
 ## What is this about?
-We are organizing an interdepartmental dodgeball tournament for the different units of the Institute for Psychology of Leiden University. All units are invited to register a 6-player team.
+We are organizing an interdepartmental dodgeball tournament for the different units of the Institute for Psychology of Leiden University. All units are invited to register one or more 6-player teams.
 
 <!---
 > **Registration is now closed.** If you still want to participate, send me an [email](mailto:kleijnrde@fsw.leidenuniv.nl).
@@ -24,12 +24,10 @@ We are organizing an interdepartmental dodgeball tournament for the different un
 ![Location of the tournament](dodgeball-map.png)
 
 ## Tournament design
-The tournament will have a round-robin design. Each team will compete against all other teams once, with the winner being the team that wins the most games. The number of rounds will depend on the number of registered teams. Assuming that 7 teams register, there will be 7 rounds with one team having no game each round. If there are 6 teams, we will play 5 rounds. We expect some non-playing attendees to referee the matches being played.
+The tournament will have a round-robin design. Each team will compete against all other teams once, with the winner being the team that wins the most games and tie-breaking decided by number of points. The number of rounds will depend on the number of registered teams. Assuming that 7 teams register, there will be 7 rounds with one team having no game each round. If there are 6 teams, we will play 5 rounds. We expect some non-playing attendees to referee the matches being played.
 
 ## Who are eligible to participate?
-Participation is open to teams consisting of 6 employees from the various units of the Institute for Psychology. If not all units register a team, we may open up another round of registration.
-
-If you cannot find enough enthusiastic colleagues to form a team with, you can also register as an independent player. The organizers will then place you in a team.
+Participation is open to teams consisting of 6 employees from the various units of the Institute for Psychology. If you cannot find enough enthusiastic colleagues to form a team with, you can also register as an independent player. The organizers will then place you in a team.
 
 <!---
 As of 30 May, six teams have registered:

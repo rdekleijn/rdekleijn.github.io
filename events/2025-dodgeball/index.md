@@ -16,6 +16,8 @@ We are organizing an interdepartmental dodgeball tournament for the different un
 > **Registration is now closed.** If you still want to participate, send me an [email](mailto:kleijnrde@fsw.leidenuniv.nl).
 -->
 
+> Please register before Friday, 6 June 2025 to allow for ordering enough food.
+
 ## Approximate schedule
 1. 15:45–17:30 Dodgeball tournament
 2. 17:30–18:00 Drinks

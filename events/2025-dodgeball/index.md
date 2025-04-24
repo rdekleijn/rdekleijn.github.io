@@ -7,7 +7,7 @@ classes: wide
 
 - Location: [University Sports Center (USC) hockey fields](https://maps.app.goo.gl/yWmSJjPauUc7BFiR9)
 - Date and time: **Friday, 20 June 2025 from 15:45 to 21:30.**
-- Register your 6-player team [here](https://docs.google.com/forms/d/e/1FAIpQLSdOXBk9Is_R509xiL-b41qGZjL5UzEc_qpF9lMglhgfi5DlaQ/viewform?usp=dialog).
+- Register your 6-player team [here](https://docs.google.com/forms/d/e/1FAIpQLSdOXBk9Is_R509xiL-b41qGZjL5UzEc_qpF9lMglhgfi5DlaQ/viewform?usp=dialog) before **Friday, 6 June 2025**.
 
 ## What is this about?
 We are organizing an interdepartmental dodgeball tournament for the different units of the Institute for Psychology of Leiden University. All units are invited to register one or more 6-player teams.
@@ -15,8 +15,6 @@ We are organizing an interdepartmental dodgeball tournament for the different un
 <!---
 > **Registration is now closed.** If you still want to participate, send me an [email](mailto:kleijnrde@fsw.leidenuniv.nl).
 -->
-
-> Please register before Friday, 6 June 2025 to allow for ordering enough food.
 
 ## Approximate schedule
 1. 15:45–17:30 Dodgeball tournament

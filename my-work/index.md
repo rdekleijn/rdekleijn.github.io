@@ -88,6 +88,7 @@ generates urgency and amplifies competition between evidence accumulators.
 - de Kleijn, R. (March 12, 2013). Measuring the unconscious mind. Leiden Psychology Blog.
 
 ## Invited talks and media
+- de Kleijn, R. Neural networks: The driving force behind animal and artificial intelligence. *Leiden Biology Club Conference,* Leiden, Netherlands. *June 21, 2025. (invited talk)*
 - de Kleijn, R. Does AI replace our cognition or extend it? *Global Challenges Conference,* The Hague, Netherlands. *May 10, 2025. (invited talk)*
 - de Kleijn, R. Anthropomorphism: The psychological effects of robots that appear human. *University of Granada,* Granada, Spain. *May 5, 2025. (invited talk)*
 - de Kleijn, R. What maakt menselijke intelligentie zo bijzonder? [What's so special about human intelligence?] *Pearson Clinical Symposium: Intelligentie & Cognitie bij Kind en Jeugd in een Digitaal Tijdperk,* Heemstede, Netherlands. *October 17, 2024. (invited talk)*

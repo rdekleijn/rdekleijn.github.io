@@ -46,8 +46,10 @@ generates urgency and amplifies competition between evidence accumulators.
 - Nieuwenhuis, S., & de Kleijn, R. (2013). The impact of alertness on cognitive control. *Journal of Experimental Psychology: Human Perception and Performance, 39,* 1797–1801. [doi: [10.1037/a0033980](http://dx.doi.org/10.1037/a0033980)]
 - Nieuwenhuis, S., & de Kleijn, R. (2011). Consciousness of targets during the attentional blink: A gradual or all-or-none dimension? *Attention, Perception, & Psychophysics, 73,* 364–373. [doi: [10.3758/s13414-010-0026-1](http://dx.doi.org/10.3758/s13414-010-0026-1)] [[PDF](../assets/pdf/2011_Nieuwenhuis_DeKleijn_AP&P.pdf)]
 
-## Talks and poster presentations
+## Conference talks and poster presentations
 
+- Dev, A., Mukherjee, S., & de Kleijn, R. Sharing gains and losses: Dictator game decisions with robot opponents. *Annual Conference of Society for the Advancement of Behavioral Economics (SABE 2025),* Trento, Italy. *June 5, 2025.*
+- Dev, A., de Kleijn, R., & Mukherjee, S. Human-robot interaction in economic decision-making: Insights from dictator games. *Annual Conference of Cognitive Science (ACCS 11),* Indian Institute of Technology Bombay. *December 2024.*
 - Kouwenhoven, T., de Kleijn, R., Raaijmakers, S., & Verhoef, T. Emergence of grounded signal-meaning mappings in human–machine collaboration. *SIGNLL Conference on Computational Natural Language Learning,* Abu Dhabi, United Arab Emirates. *December 7, 2022.*
 - Heijnen, S., de Kleijn, R., & Sleutels, J. What is important in a computational model? *NVP Winter Conference,* Egmond aan Zee, Netherlands. *April 29, 2022.*
 - de Kleijn, R. Evolutionary algorithms in computational art. *20th Annual Summer Interdisciplinary Conference (ASIC),* San Martino di Castrozza, Italy. *July 14, 2021.*

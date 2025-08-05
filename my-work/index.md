@@ -7,6 +7,7 @@ classes: wide
 
 ## Papers
 
+- Langeveld, D., Sipahioğlu, B., Oebel, M., de Kleijn, R., & Molendijk, M. L. (coming soon!). Non-randomness and unusual dropout patterns in 223 randomized controlled trials produced by one author group: A systematic review.
 - Dev, A., de Kleijn, R., & Mukherjee, S. (coming soon!). Dictator game decisions with robot recipients.
 - Tromp, J., Wurm, F., Lucchi, F., de Kleijn, R., & Nieuwenhuis, S. (coming soon!). Phasic alertness
 generates urgency and amplifies competition between evidence accumulators.

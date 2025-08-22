@@ -9,8 +9,7 @@ classes: wide
 
 - Langeveld, D., Sipahioğlu, B., Oebel, M., de Kleijn, R., & Molendijk, M. L. (coming soon!). Non-randomness and unusual dropout patterns in 223 randomized controlled trials produced by one author group: A systematic review.
 - Dev, A., de Kleijn, R., & Mukherjee, S. (coming soon!). Dictator game decisions with robot recipients.
-- Tromp, J., Wurm, F., Lucchi, F., de Kleijn, R., & Nieuwenhuis, S. (coming soon!). Phasic alertness
-generates urgency and amplifies competition between evidence accumulators.
+- Tromp, J., Wurm, F., Lucchi, F., de Kleijn, R., & Nieuwenhuis, S. (in press). Phasic alertness impairs cognitive control by amplifying competition between evidence accumulators. *Journal of Neuroscience.*
 - Kouwenhoven, T., Peeperkorn, M., de Kleijn, R., & Verhoef, T. (2025). Shaping shared languages: human and large language models' inductive biases in emergent communication. *34th International Joint Conference on Artificial Intelligence.* [[link](https://arxiv.org/abs/2503.04395)] [[PDF](../assets/pdf/2025_Kouwenhoven_IJCAI.pdf)]
 - Heijnen, S., Sleutels, J., & de Kleijn, R. (2024). Model virtues in computational cognitive neuroscience. *Journal of Cognitive Neuroscience, 36,* 1683–1694. [doi: [10.1162/jocn_a_02183](https://doi.org/10.1162/jocn_a_02183)] [[PDF](../assets/pdf/2025_Heijnen_JOCN.pdf)]
 - Raaijmakers, S., Bakker, R., Cremers, A., de Kleijn, R., Kouwenhoven, T., & Verhoef, T. (2024). Memory-augmented generative adversarial transformers. *arXiv:2402.19218.* [[link](https://arxiv.org/abs/2402.19218)] [[PDF](../assets/pdf/2024_Raaijmakers.pdf)]

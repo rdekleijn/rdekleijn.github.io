@@ -7,6 +7,7 @@ classes: wide
 
 ## Papers
 
+- Schwed-Shenker, M., Fosch Villaronga, E., & de Kleijn, R. (coming soon!). Beyond physical safety: Rethinking safety standards for social robots. 
 - Langeveld, D., Sipahioğlu, B., Oebel, M., de Kleijn, R., & Molendijk, M. L. (coming soon!). Non-randomness and unusual dropout patterns in 223 randomized controlled trials produced by one author group: A systematic review.
 - Dev, A., de Kleijn, R., & Mukherjee, S. (coming soon!). Dictator game decisions with robot recipients.
 - Tromp, J., Wurm, F., Lucchi, F., de Kleijn, R., & Nieuwenhuis, S. (2025). Phasic alertness impairs cognitive control by amplifying competition between evidence accumulators. *Journal of Neuroscience, e1595242025.* [doi: [10.1523/JNEUROSCI.1595-24.2025](https://doi.org/10.1523/JNEUROSCI.1595-24.2025)]

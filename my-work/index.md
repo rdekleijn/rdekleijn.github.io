@@ -49,6 +49,7 @@ classes: wide
 
 ## Conference talks and poster presentations
 
+- Dev, A., Mukherjee, S., & de Kleijn, R. Sharing gains and losses: Dictator game decisions with robot opponents. *Subjective Probability, Utility & Decision Making (SPUDM 2025),* Lucca, Italy. *September 3, 2025.*
 - Dev, A., Mukherjee, S., & de Kleijn, R. Sharing gains and losses: Dictator game decisions with robot opponents. *Annual Conference of Society for the Advancement of Behavioral Economics (SABE 2025),* Trento, Italy. *June 5, 2025.*
 - Dev, A., de Kleijn, R., & Mukherjee, S. Human-robot interaction in economic decision-making: Insights from dictator games. *Annual Conference of Cognitive Science (ACCS 11),* Indian Institute of Technology Bombay. *December 2024.*
 - Kouwenhoven, T., de Kleijn, R., Raaijmakers, S., & Verhoef, T. Emergence of grounded signal-meaning mappings in human–machine collaboration. *SIGNLL Conference on Computational Natural Language Learning,* Abu Dhabi, United Arab Emirates. *December 7, 2022.*

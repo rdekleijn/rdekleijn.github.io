@@ -9,7 +9,7 @@ classes: wide
 
 - Schwed-Shenker, M., Fosch-Villaronga, E., & de Kleijn, R. (coming soon!). Beyond physical safety: Rethinking safety standards for social robots. 
 - Langeveld, D., Sipahioğlu, B., Oebel, M., de Kleijn, R., & Molendijk, M. L. (coming soon!). Non-randomness and unusual dropout patterns in 223 randomized controlled trials produced by one author group: A systematic review.
-- Dev, A., de Kleijn, R., & Mukherjee, S. (in press). Dictator game decisions with robot recipients. *International Journal of Social Robotics.*
+- Dev, A., de Kleijn, R., & Mukherjee, S. (2026). Dictator game decisions with robot recipients. *International Journal of Social Robotics, 18:49.* [doi: [10.1007/s12369-026-01385-z](https://doi.org/10.1007/s12369-026-01385-z)]
 - Tromp, J., Wurm, F., Lucchi, F., de Kleijn, R., & Nieuwenhuis, S. (2025). Phasic alertness impairs cognitive control by amplifying competition between evidence accumulators. *Journal of Neuroscience, e1595242025.* [doi: [10.1523/JNEUROSCI.1595-24.2025](https://doi.org/10.1523/JNEUROSCI.1595-24.2025)]
 - Kouwenhoven, T., Peeperkorn, M., de Kleijn, R., & Verhoef, T. (2025). Shaping shared languages: human and large language models' inductive biases in emergent communication. *34th International Joint Conference on Artificial Intelligence.* [[link](https://arxiv.org/abs/2503.04395)] [[PDF](../assets/pdf/2025_Kouwenhoven_IJCAI.pdf)]
 - Heijnen, S., Sleutels, J., & de Kleijn, R. (2024). Model virtues in computational cognitive neuroscience. *Journal of Cognitive Neuroscience, 36,* 1683–1694. [doi: [10.1162/jocn_a_02183](https://doi.org/10.1162/jocn_a_02183)] [[PDF](../assets/pdf/2025_Heijnen_JOCN.pdf)]

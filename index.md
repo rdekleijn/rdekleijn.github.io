@@ -17,6 +17,7 @@ I am involved in teaching or coordinating the following courses:
 
 - Artificial Intelligence
 - Fundamentals and Ethics of AI
+- Human-Robot Interaction
 - Introduction to Psychology *[Inleiding in de Psychologie]*
 - Introduction to Cognitive Science
 - Reinforcement Learning and Decision Making: Neural and Computational Mechanisms
